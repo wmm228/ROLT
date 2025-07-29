@@ -1,0 +1,69 @@
+# Core Deep Learning Frameworks
+torch>=1.7,!=1.12.0
+transformers>=4.20.0
+accelerate==0.15.0
+sentence-transformers>=2.2.0
+
+# Language Processing
+spacy==3.4.1
+nltk>=3.8
+sentencepiece>=0.1.96
+protobuf==3.19.0
+
+# Machine Learning & Scientific Computing
+scikit-learn>=1.0.0
+scipy>=1.9.0
+numpy>=1.21.0
+pandas>=1.4.0
+
+# API & Web Services
+openai>=0.27.0
+fastapi>=0.95.0
+uvicorn[standard]>=0.20.0
+requests>=2.28.0
+
+# Data Processing & Utils
+datasets>=2.0.0
+tqdm>=4.64.0
+ujson>=5.0.0
+ftfy>=6.0.0
+diskcache>=5.4.0
+typing_extensions<4.6.0
+
+# Text Processing & Evaluation
+rapidfuzz>=2.13.0
+beautifulsoup4>=4.11.0
+blingfire>=0.1.0
+
+# Retrieval & Search
+elasticsearch==7.9.1
+whoosh>=2.7.4
+
+# Model Training & Evaluation
+simpletransformers>=0.63.0
+tensorboard>=2.10.0
+wandb>=0.13.0
+
+# Configuration & Serialization
+jsonnet>=0.19.0
+pyyaml>=6.0
+dill>=0.3.0
+base58>=2.1.0
+
+# Development & Code Quality
+black>=22.0.0
+ruff>=0.0.200
+pygments>=2.13.0
+
+# System Utilities
+psutil>=5.9.0
+wget>=3.2
+
+# Optional GPU Acceleration
+# nvidia-ml-py3>=7.352.0  # Uncomment if using NVIDIA GPUs
+
+# Optional Dependencies for Extended Functionality
+# faiss-gpu>=1.7.0        # For fast similarity search (GPU version)
+# faiss-cpu>=1.7.0        # For fast similarity search (CPU version)
+# pymongo>=4.0.0          # If using MongoDB for data storage
+# redis>=4.0.0            # If using Redis for caching 
