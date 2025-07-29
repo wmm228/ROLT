@@ -1,0 +1,10 @@
+Position 1: 78.5000
+Position 2: 68.4000
+Position 3: 63.7500
+Position 4: 68.4500
+Position 5: 56.0500
+Position 6: 56.2000
+Position 7: 48.3000
+Position 8: 46.2000
+Position 9: 46.2000
+Position 10: 49.3000

@@ -1,0 +1,4502 @@
+[
+  {
+    "question": "Were Scott Derrickson and Ed Wood of the same nationality?",
+    "subquestions": [
+      {
+        "text": "What is the nationality of Scott Derrickson?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the nationality of Ed Wood?",
+        "score": 100.0
+      },
+      {
+        "text": "In what country was Scott Derrickson born?",
+        "score": 90.0
+      },
+      {
+        "text": "In what country was Ed Wood born?",
+        "score": 90.0
+      },
+      {
+        "text": "What are the notable works of Scott Derrickson?",
+        "score": 20.0
+      },
+      {
+        "text": "What are the notable works of Ed Wood?",
+        "score": 20.0
+      },
+      {
+        "text": "What year was Scott Derrickson born?",
+        "score": 10.0
+      },
+      {
+        "text": "What year was Ed Wood born?",
+        "score": 20.0
+      },
+      {
+        "text": "What are the major influences in the careers of Scott Derrickson and Ed Wood?",
+        "score": 20.0
+      },
+      {
+        "text": "Have Scott Derrickson and Ed Wood ever worked in the same film industry?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "What government position was held by the woman who portrayed Corliss Archer in the film Kiss and Tell?",
+    "subquestions": [
+      {
+        "text": "Who portrayed Corliss Archer in the film Kiss and Tell?",
+        "score": 100.0
+      },
+      {
+        "text": "In what year was the film Kiss and Tell released?",
+        "score": 40.0
+      },
+      {
+        "text": "What other notable roles did the actress who portrayed Corliss Archer play?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the full name of the actress who played Corliss Archer?",
+        "score": 80.0
+      },
+      {
+        "text": "What government positions are typically held by actors or actresses?",
+        "score": 20.0
+      },
+      {
+        "text": "Has the actress who played Corliss Archer ever held a government position?",
+        "score": 100.0
+      },
+      {
+        "text": "What political party did the actress who played Corliss Archer affiliate with, if any?",
+        "score": 30.0
+      },
+      {
+        "text": "What awards or recognitions has the actress received in her career?",
+        "score": 10.0
+      },
+      {
+        "text": "Did the actress have any involvement in politics or public service outside of acting?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the historical context of government positions held by actresses in the entertainment industry?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "What science fantasy young adult series, told in first person, has a set of companion books narrating the stories of enslaved worlds and alien species?",
+    "subquestions": [
+      {
+        "text": "What are some notable science fantasy young adult series written in the first person?",
+        "score": 80.0
+      },
+      {
+        "text": "Which science fantasy young adult series include companion books?",
+        "score": 70.0
+      },
+      {
+        "text": "What themes are commonly explored in companion books related to enslaved worlds and alien species?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any young adult series that specifically focus on the experiences of alien species?",
+        "score": 70.0
+      },
+      {
+        "text": "Which authors are known for writing science fantasy young adult series featuring enslaved worlds?",
+        "score": 80.0
+      },
+      {
+        "text": "What are some examples of companion books that narrate stories of enslaved alien species?",
+        "score": 90.0
+      },
+      {
+        "text": "How do first-person narratives influence the storytelling of young adult science fantasy series?",
+        "score": 40.0
+      },
+      {
+        "text": "What characteristics define a science fantasy genre compared to other genres?",
+        "score": 30.0
+      },
+      {
+        "text": "Are there any awards or recognitions for young adult series that feature themes of enslavement and alien cultures?",
+        "score": 40.0
+      },
+      {
+        "text": "What online resources or book lists can help identify science fantasy young adult series with companion books?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "Are the Laleli Mosque and Esma Sultan Mansion located in the same neighborhood?",
+    "subquestions": [
+      {
+        "text": "What is the exact address of the Laleli Mosque?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the exact address of the Esma Sultan Mansion?",
+        "score": 80.0
+      },
+      {
+        "text": "What neighborhood is the Laleli Mosque located in?",
+        "score": 100.0
+      },
+      {
+        "text": "What neighborhood is the Esma Sultan Mansion located in?",
+        "score": 100.0
+      },
+      {
+        "text": "How are neighborhoods defined in the context of the locations in question?",
+        "score": 80.0
+      },
+      {
+        "text": "Are there any mapping tools available to visualize the locations of the Laleli Mosque and Esma Sultan Mansion?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the distance between the Laleli Mosque and Esma Sultan Mansion?",
+        "score": 90.0
+      },
+      {
+        "text": "Are there any landmarks or notable features near the Laleli Mosque?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any landmarks or notable features near the Esma Sultan Mansion?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the transportation options between the Laleli Mosque and Esma Sultan Mansion?",
+        "score": 70.0
+      }
+    ]
+  },
+  {
+    "question": "The director of the romantic comedy \"Big Stone Gap\" is based in what New York city?",
+    "subquestions": [
+      {
+        "text": "Who directed the romantic comedy \"Big Stone Gap\"?",
+        "score": 90.0
+      },
+      {
+        "text": "What is the full name of the director of \"Big Stone Gap\"?",
+        "score": 80.0
+      },
+      {
+        "text": "What other films or projects has the director of \"Big Stone Gap\" worked on?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the current city of residence of the director of \"Big Stone Gap\"?",
+        "score": 100.0
+      },
+      {
+        "text": "Is the director of \"Big Stone Gap\" known to have connections to any specific New York city?",
+        "score": 80.0
+      },
+      {
+        "text": "Has the director ever mentioned their place of residence in interviews or public statements?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any biographical details available about the director that include their location?",
+        "score": 70.0
+      },
+      {
+        "text": "What notable achievements or awards has the director received that might indicate their prominence in a specific New York city?",
+        "score": 30.0
+      },
+      {
+        "text": "Can I find any news articles or profiles that discuss the director's career and location?",
+        "score": 70.0
+      },
+      {
+        "text": "What is the significance of New York city in relation to the director's work or personal life?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "2014 S/S is the debut album of a South Korean boy group that was formed by who?",
+    "subquestions": [
+      {
+        "text": "What is the name of the South Korean boy group that released the 2014 S/S album?",
+        "score": 80.0
+      },
+      {
+        "text": "In what year was the South Korean boy group formed?",
+        "score": 80.0
+      },
+      {
+        "text": "Who were the members of the South Korean boy group that debuted with the 2014 S/S album?",
+        "score": 60.0
+      },
+      {
+        "text": "What company or label formed the South Korean boy group?",
+        "score": 100.0
+      },
+      {
+        "text": "What was the name of the debut single from the 2014 S/S album?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the significance of the 2014 S/S album in the context of the group's career?",
+        "score": 40.0
+      },
+      {
+        "text": "Who was the producer or main creative force behind the 2014 S/S album?",
+        "score": 60.0
+      },
+      {
+        "text": "What other albums did the South Korean boy group release after the 2014 S/S album?",
+        "score": 20.0
+      },
+      {
+        "text": "How did the public and critics respond to the 2014 S/S album?",
+        "score": 20.0
+      },
+      {
+        "text": "What were the influences or themes present in the 2014 S/S album?",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "question": "Who was known by his stage name Aladin and helped organizations improve their performance as a consultant?",
+    "subquestions": [
+      {
+        "text": "What was the real name of the person known by the stage name Aladin?",
+        "score": 100.0
+      },
+      {
+        "text": "In which industry did Aladin work as a consultant?",
+        "score": 85.0
+      },
+      {
+        "text": "What specific organizations did Aladin help improve their performance?",
+        "score": 90.0
+      },
+      {
+        "text": "What methods or strategies did Aladin use to help organizations improve their performance?",
+        "score": 90.0
+      },
+      {
+        "text": "During what time period was Aladin most active as a consultant?",
+        "score": 80.0
+      },
+      {
+        "text": "What notable achievements did Aladin accomplish in his consulting career?",
+        "score": 100.0
+      },
+      {
+        "text": "Are there any interviews or articles that feature Aladin discussing his consulting work?",
+        "score": 80.0
+      },
+      {
+        "text": "What are some key characteristics or skills that Aladin possessed as a consultant?",
+        "score": 80.0
+      },
+      {
+        "text": "How did Aladin's stage name influence his consulting career?",
+        "score": 70.0
+      },
+      {
+        "text": "What impact did Aladin have on the organizations he worked with?",
+        "score": 90.0
+      }
+    ]
+  },
+  {
+    "question": "The arena where the Lewiston Maineiacs played their home games can seat how many people?",
+    "subquestions": [
+      {
+        "text": "What is the name of the arena where the Lewiston Maineiacs played their home games?",
+        "score": 90.0
+      },
+      {
+        "text": "When did the Lewiston Maineiacs begin playing their home games in the arena?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the maximum seating capacity of the arena?",
+        "score": 100.0
+      },
+      {
+        "text": "Are there any official sources or records that provide the seating capacity of the arena?",
+        "score": 80.0
+      },
+      {
+        "text": "Has the seating capacity of the arena changed over the years?",
+        "score": 60.0
+      },
+      {
+        "text": "What events besides the Lewiston Maineiacs' games have been held in the arena?",
+        "score": 10.0
+      },
+      {
+        "text": "Who manages or owns the arena where the Lewiston Maineiacs played their home games?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the location or address of the arena?",
+        "score": 30.0
+      },
+      {
+        "text": "Are there any seating charts or diagrams available for the arena?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the dimensions of the arena, including the seating area?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "Who is older, Annie Morton or Terry Richardson?",
+    "subquestions": [
+      {
+        "text": "What is Annie Morton's birth date?",
+        "score": 90.0
+      },
+      {
+        "text": "What is Terry Richardson's birth date?",
+        "score": 100.0
+      },
+      {
+        "text": "How old is Annie Morton as of today?",
+        "score": 90.0
+      },
+      {
+        "text": "How old is Terry Richardson as of today?",
+        "score": 100.0
+      },
+      {
+        "text": "What year was Annie Morton born?",
+        "score": 100.0
+      },
+      {
+        "text": "What year was Terry Richardson born?",
+        "score": 100.0
+      },
+      {
+        "text": "Is there a public database or source that provides birth dates for notable individuals?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the difference in age between Annie Morton and Terry Richardson?",
+        "score": 100.0
+      },
+      {
+        "text": "Are there any interviews or biographies that mention Annie Morton's age?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any interviews or biographies that mention Terry Richardson's age?",
+        "score": 80.0
+      }
+    ]
+  },
+  {
+    "question": "Are Local H and For Against both from the United States?",
+    "subquestions": [
+      {
+        "text": "What is the origin of Local H?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the origin of For Against?",
+        "score": 100.0
+      },
+      {
+        "text": "Is Local H a music band?",
+        "score": 40.0
+      },
+      {
+        "text": "Is For Against a music band?",
+        "score": 40.0
+      },
+      {
+        "text": "What genre of music does Local H play?",
+        "score": 20.0
+      },
+      {
+        "text": "What genre of music does For Against play?",
+        "score": 20.0
+      },
+      {
+        "text": "Has Local H ever performed outside the United States?",
+        "score": 20.0
+      },
+      {
+        "text": "Has For Against ever performed outside the United States?",
+        "score": 20.0
+      },
+      {
+        "text": "What are the official websites or social media pages for Local H and For Against?",
+        "score": 20.0
+      },
+      {
+        "text": "Are there any interviews or profiles that discuss the backgrounds of Local H and For Against?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?",
+    "subquestions": [
+      {
+        "text": "What is the name of the university with its main campus in Lawrence, Kansas?",
+        "score": 100.0
+      },
+      {
+        "text": "What are the names of the branch campuses of the university in the Kansas City metropolitan area?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the location of the university's main campus?",
+        "score": 80.0
+      },
+      {
+        "text": "What is a fight song in the context of a university?",
+        "score": 20.0
+      },
+      {
+        "text": "How can I find the fight song associated with a specific university?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the significance of a fight song for a university?",
+        "score": 20.0
+      },
+      {
+        "text": "Are there any notable traditions associated with the fight song of this university?",
+        "score": 60.0
+      },
+      {
+        "text": "Who composed the fight song for the university in Lawrence, Kansas?",
+        "score": 70.0
+      },
+      {
+        "text": "Has the fight song of the university changed over time, and if so, what are the historical versions?",
+        "score": 40.0
+      },
+      {
+        "text": "Where can I listen to or find the lyrics of the university’s fight song?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "What screenwriter with credits for \"Evolution\" co-wrote a film starring Nicolas Cage and Téa Leoni?",
+    "subquestions": [
+      {
+        "text": "Who is the screenwriter credited for \"Evolution\"?",
+        "score": 90.0
+      },
+      {
+        "text": "What films has Nicolas Cage starred in?",
+        "score": 40.0
+      },
+      {
+        "text": "What films has Téa Leoni starred in?",
+        "score": 40.0
+      },
+      {
+        "text": "Which films feature both Nicolas Cage and Téa Leoni?",
+        "score": 80.0
+      },
+      {
+        "text": "Who are the co-writers of the film that stars both Nicolas Cage and Téa Leoni?",
+        "score": 100.0
+      },
+      {
+        "text": "What are the credits of the screenwriter who wrote \"Evolution\"?",
+        "score": 80.0
+      },
+      {
+        "text": "In which year was \"Evolution\" released?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the title of the film co-written by the screenwriter from \"Evolution\"?",
+        "score": 90.0
+      },
+      {
+        "text": "Has the screenwriter of \"Evolution\" worked on any projects with Nicolas Cage?",
+        "score": 80.0
+      },
+      {
+        "text": "Has the screenwriter of \"Evolution\" worked on any projects with Téa Leoni?",
+        "score": 80.0
+      }
+    ]
+  },
+  {
+    "question": "What year did Guns N Roses perform a promo for a movie starring Arnold Schwarzenegger as a former New York Police detective?",
+    "subquestions": [
+      {
+        "text": "What movie starring Arnold Schwarzenegger features him as a former New York Police detective?",
+        "score": 80.0
+      },
+      {
+        "text": "In what year was the movie featuring Arnold Schwarzenegger released?",
+        "score": 90.0
+      },
+      {
+        "text": "What promotional events did Guns N Roses participate in for movie releases in the 1990s?",
+        "score": 70.0
+      },
+      {
+        "text": "Did Guns N Roses perform any specific songs during the promotion for the movie?",
+        "score": 70.0
+      },
+      {
+        "text": "What are the names of the members of Guns N Roses during the time of their promotions?",
+        "score": 40.0
+      },
+      {
+        "text": "What year was Guns N Roses formed?",
+        "score": 10.0
+      },
+      {
+        "text": "What other movies did Arnold Schwarzenegger star in that involved police or detective themes?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the relationship between Guns N Roses and film promotions in the early 1990s?",
+        "score": 60.0
+      },
+      {
+        "text": "Where did Guns N Roses typically perform their promotional events for movies?",
+        "score": 20.0
+      },
+      {
+        "text": "What year did Guns N Roses gain significant popularity in relation to movie soundtracks?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "Are Random House Tower and 888 7th Avenue both used for real estate?",
+    "subquestions": [
+      {
+        "text": "What is the current use of Random House Tower?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the current use of 888 7th Avenue?",
+        "score": 90.0
+      },
+      {
+        "text": "Are there any historical records indicating the original purpose of Random House Tower?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any historical records indicating the original purpose of 888 7th Avenue?",
+        "score": 60.0
+      },
+      {
+        "text": "Who owns Random House Tower, and what is their business focus?",
+        "score": 60.0
+      },
+      {
+        "text": "Who owns 888 7th Avenue, and what is their business focus?",
+        "score": 80.0
+      },
+      {
+        "text": "Are there any commercial tenants in Random House Tower?",
+        "score": 80.0
+      },
+      {
+        "text": "Are there any commercial tenants in 888 7th Avenue?",
+        "score": 80.0
+      },
+      {
+        "text": "What type of zoning regulations apply to the area surrounding Random House Tower?",
+        "score": 40.0
+      },
+      {
+        "text": "What type of zoning regulations apply to the area surrounding 888 7th Avenue?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "The football manager who recruited David Beckham managed Manchester United during what timeframe?",
+    "subquestions": [
+      {
+        "text": "Who was the football manager that recruited David Beckham?",
+        "score": 100.0
+      },
+      {
+        "text": "What years did David Beckham play for Manchester United?",
+        "score": 80.0
+      },
+      {
+        "text": "During which years did Manchester United win the Premier League while David Beckham was on the team?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the full name of the football manager who recruited David Beckham?",
+        "score": 80.0
+      },
+      {
+        "text": "In what year did David Beckham join Manchester United?",
+        "score": 80.0
+      },
+      {
+        "text": "When did the football manager who recruited David Beckham start managing Manchester United?",
+        "score": 100.0
+      },
+      {
+        "text": "When did the football manager who recruited David Beckham leave Manchester United?",
+        "score": 100.0
+      },
+      {
+        "text": "What notable achievements did the football manager accomplish while managing Manchester United?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the historical context of Manchester United during David Beckham's time with the club?",
+        "score": 60.0
+      },
+      {
+        "text": "What role did the football manager play in David Beckham's development as a player?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "Brown State Fishing Lake is in a country that has a population of how many inhabitants ?",
+    "subquestions": [
+      {
+        "text": "What country is Brown State Fishing Lake located in?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the capital city of the country that contains Brown State Fishing Lake?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the total area of the country that contains Brown State Fishing Lake?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the most recent population estimate for the country that contains Brown State Fishing Lake?",
+        "score": 100.0
+      },
+      {
+        "text": "What are the major cities in the country that contains Brown State Fishing Lake?",
+        "score": 30.0
+      },
+      {
+        "text": "What demographic data is available for the country that contains Brown State Fishing Lake?",
+        "score": 70.0
+      },
+      {
+        "text": "What organization or government body is responsible for reporting population statistics in the country that contains Brown State Fishing Lake?",
+        "score": 40.0
+      },
+      {
+        "text": "Has the population of the country that contains Brown State Fishing Lake increased or decreased in the last decade?",
+        "score": 40.0
+      },
+      {
+        "text": "What factors influence population growth in the country that contains Brown State Fishing Lake?",
+        "score": 30.0
+      },
+      {
+        "text": "Are there any specific census data available for the region surrounding Brown State Fishing Lake?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "The Vermont Catamounts men's soccer team currently competes in a conference that was formerly known as what from 1988 to 1996?",
+    "subquestions": [
+      {
+        "text": "What is the current name of the conference in which the Vermont Catamounts men's soccer team competes?",
+        "score": 90.0
+      },
+      {
+        "text": "In what year did the Vermont Catamounts men's soccer team start competing in their current conference?",
+        "score": 60.0
+      },
+      {
+        "text": "What teams are currently members of the Vermont Catamounts men's soccer team's conference?",
+        "score": 30.0
+      },
+      {
+        "text": "What was the previous name of the conference before it changed to its current name?",
+        "score": 100.0
+      },
+      {
+        "text": "What were the significant changes made to the conference structure from 1988 to 1996?",
+        "score": 40.0
+      },
+      {
+        "text": "Who were the notable teams that played in the conference during the period from 1988 to 1996?",
+        "score": 40.0
+      },
+      {
+        "text": "What events or circumstances led to the renaming of the conference after 1996?",
+        "score": 60.0
+      },
+      {
+        "text": "How did the Vermont Catamounts men's soccer team's performance compare to other teams in the conference during 1988 to 1996?",
+        "score": 30.0
+      },
+      {
+        "text": "What governing body oversees the conference in which the Vermont Catamounts currently compete?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there historical records or archives that document the conference's name changes over the years?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+    "subquestions": [
+      {
+        "text": "What is the definition of an opera composer?",
+        "score": 40.0
+      },
+      {
+        "text": "Who was Giuseppe Verdi, and what is his significance in opera?",
+        "score": 90.0
+      },
+      {
+        "text": "What are some notable operas composed by Giuseppe Verdi?",
+        "score": 90.0
+      },
+      {
+        "text": "Who was Ambroise Thomas, and what is his significance in opera?",
+        "score": 90.0
+      },
+      {
+        "text": "What are some notable operas composed by Ambroise Thomas?",
+        "score": 85.0
+      },
+      {
+        "text": "In what time period did Giuseppe Verdi compose his operas?",
+        "score": 60.0
+      },
+      {
+        "text": "In what time period did Ambroise Thomas compose his operas?",
+        "score": 60.0
+      },
+      {
+        "text": "What musical styles are associated with Giuseppe Verdi's operas?",
+        "score": 70.0
+      },
+      {
+        "text": "What musical styles are associated with Ambroise Thomas's operas?",
+        "score": 80.0
+      },
+      {
+        "text": "Are there any common characteristics in the operas composed by Giuseppe Verdi and Ambroise Thomas?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "Roger O. Egeberg was Assistant Secretary for Health and Scientific Affairs during the administration of a president that served during what years?",
+    "subquestions": [
+      {
+        "text": "Who was Roger O. Egeberg?",
+        "score": 60.0
+      },
+      {
+        "text": "What position did Roger O. Egeberg hold in the government?",
+        "score": 90.0
+      },
+      {
+        "text": "During which presidential administration did Roger O. Egeberg serve?",
+        "score": 100.0
+      },
+      {
+        "text": "Who was the president during Roger O. Egeberg's term as Assistant Secretary for Health and Scientific Affairs?",
+        "score": 100.0
+      },
+      {
+        "text": "What are the start and end years of the presidential administration in which Roger O. Egeberg served?",
+        "score": 100.0
+      },
+      {
+        "text": "What years did the president who appointed Roger O. Egeberg serve?",
+        "score": 100.0
+      },
+      {
+        "text": "What were the significant events during the time Roger O. Egeberg was in office?",
+        "score": 40.0
+      },
+      {
+        "text": "How long did Roger O. Egeberg serve as Assistant Secretary for Health and Scientific Affairs?",
+        "score": 80.0
+      },
+      {
+        "text": "What other positions did Roger O. Egeberg hold during his career?",
+        "score": 20.0
+      },
+      {
+        "text": "What health policies were implemented during Roger O. Egeberg's tenure?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "Which writer was from England, Henry Roth or Robert Erskine Childers?",
+    "subquestions": [
+      {
+        "text": "What is the nationality of Henry Roth?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the nationality of Robert Erskine Childers?",
+        "score": 100.0
+      },
+      {
+        "text": "When was Henry Roth born and where?",
+        "score": 30.0
+      },
+      {
+        "text": "When was Robert Erskine Childers born and where?",
+        "score": 70.0
+      },
+      {
+        "text": "What are notable works written by Henry Roth?",
+        "score": 30.0
+      },
+      {
+        "text": "What are notable works written by Robert Erskine Childers?",
+        "score": 40.0
+      },
+      {
+        "text": "Did Henry Roth spend any significant time in England?",
+        "score": 30.0
+      },
+      {
+        "text": "Did Robert Erskine Childers spend any significant time in England?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any historical events that link Henry Roth to England?",
+        "score": 30.0
+      },
+      {
+        "text": "Are there any historical events that link Robert Erskine Childers to England?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "Which other Mexican Formula One race car driver has held the podium besides the Force India driver born in 1990?",
+    "subquestions": [
+      {
+        "text": "Who is the Force India driver born in 1990?",
+        "score": 100.0
+      },
+      {
+        "text": "What are the names of all Mexican Formula One drivers?",
+        "score": 80.0
+      },
+      {
+        "text": "Which Mexican Formula One drivers have held a podium position?",
+        "score": 100.0
+      },
+      {
+        "text": "What years did the Mexican Formula One drivers achieve podium finishes?",
+        "score": 90.0
+      },
+      {
+        "text": "How many podium finishes did the Force India driver born in 1990 achieve?",
+        "score": 40.0
+      },
+      {
+        "text": "What teams have the Mexican Formula One drivers raced for?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any other Mexican drivers born in the same year as the Force India driver?",
+        "score": 20.0
+      },
+      {
+        "text": "What specific races did the Mexican Formula One drivers finish in podium positions?",
+        "score": 95.0
+      },
+      {
+        "text": "Who was the last Mexican driver to finish on the podium before the Force India driver born in 1990?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the definition of \"podium finish\" in Formula One racing?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "This singer of A Rather Blustery Day also voiced what hedgehog?",
+    "subquestions": [
+      {
+        "text": "Who is the singer of \"A Rather Blustery Day\"?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the title of the song \"A Rather Blustery Day\" associated with?",
+        "score": 60.0
+      },
+      {
+        "text": "In which animated film or series does \"A Rather Blustery Day\" appear?",
+        "score": 80.0
+      },
+      {
+        "text": "What character does the singer of \"A Rather Blustery Day\" voice in the related film or series?",
+        "score": 100.0
+      },
+      {
+        "text": "Who is the hedgehog character that the singer voiced?",
+        "score": 100.0
+      },
+      {
+        "text": "In what animated feature or series does the hedgehog character appear?",
+        "score": 80.0
+      },
+      {
+        "text": "What are the notable works of the singer aside from \"A Rather Blustery Day\"?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the significance of the hedgehog character in the context of its series or film?",
+        "score": 40.0
+      },
+      {
+        "text": "What other characters has the singer voiced in their career?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any connections between the singer and the hedgehog character in terms of thematic elements?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "Aside from the Apple Remote, what other device can control the program Apple Remote was originally designed to interact with?",
+    "subquestions": [
+      {
+        "text": "What program was the Apple Remote originally designed to interact with?",
+        "score": 100.0
+      },
+      {
+        "text": "What types of devices are commonly used to control the program identified in question 1?",
+        "score": 90.0
+      },
+      {
+        "text": "Are there any third-party remotes that can be used with the program mentioned in question 1?",
+        "score": 95.0
+      },
+      {
+        "text": "What features do other devices offer that allow them to control the program identified in question 1?",
+        "score": 80.0
+      },
+      {
+        "text": "What protocols are used by the Apple Remote to communicate with the program in question 1?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any apps available that can serve as a remote control for the program identified in question 1?",
+        "score": 95.0
+      },
+      {
+        "text": "What hardware specifications are needed for a device to control the program mentioned in question 1?",
+        "score": 70.0
+      },
+      {
+        "text": "How does the user interface of alternative devices compare to that of the Apple Remote for the program identified in question 1?",
+        "score": 70.0
+      },
+      {
+        "text": "What are the limitations of using devices other than the Apple Remote with the program in question 1?",
+        "score": 70.0
+      },
+      {
+        "text": "Which manufacturers produce devices that can control the program identified in question 1?",
+        "score": 90.0
+      }
+    ]
+  },
+  {
+    "question": "Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice? ",
+    "subquestions": [
+      {
+        "text": "What is the total number of instruments used by Badly Drawn Boy in their performances?",
+        "score": 80.0
+      },
+      {
+        "text": "How many band members are involved in Badly Drawn Boy's performances?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the total number of instruments used by Wolf Alice in their performances?",
+        "score": 80.0
+      },
+      {
+        "text": "How many band members are involved in Wolf Alice's performances?",
+        "score": 90.0
+      },
+      {
+        "text": "What is the formula to calculate the instrument to person ratio?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the instrument to person ratio for Badly Drawn Boy?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the instrument to person ratio for Wolf Alice?",
+        "score": 100.0
+      },
+      {
+        "text": "How do the instrument to person ratios of Badly Drawn Boy and Wolf Alice compare?",
+        "score": 100.0
+      },
+      {
+        "text": "Are there any specific performances of Badly Drawn Boy or Wolf Alice that are known for a particularly high or low instrument count?",
+        "score": 80.0
+      },
+      {
+        "text": "What factors might influence the number of instruments used by each band in their performances?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "What was the father of Kasper Schmeichel voted to be by the IFFHS in 1992?",
+    "subquestions": [
+      {
+        "text": "Who is the father of Kasper Schmeichel?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the full name of Kasper Schmeichel's father?",
+        "score": 80.0
+      },
+      {
+        "text": "What does IFFHS stand for?",
+        "score": 40.0
+      },
+      {
+        "text": "In what year was the IFFHS established?",
+        "score": 10.0
+      },
+      {
+        "text": "What criteria does the IFFHS use to vote for players or coaches?",
+        "score": 40.0
+      },
+      {
+        "text": "What notable achievements did Kasper Schmeichel's father have in his football career?",
+        "score": 80.0
+      },
+      {
+        "text": "In which year did Kasper Schmeichel's father receive any awards from the IFFHS?",
+        "score": 90.0
+      },
+      {
+        "text": "Who were the nominees for the IFFHS voting in 1992?",
+        "score": 60.0
+      },
+      {
+        "text": "What position did Kasper Schmeichel's father play in football?",
+        "score": 60.0
+      },
+      {
+        "text": "How many times has Kasper Schmeichel's father been recognized by the IFFHS throughout his career?",
+        "score": 70.0
+      }
+    ]
+  },
+  {
+    "question": "Who was the writer of These Boots Are Made for Walkin' and who died in 2007?",
+    "subquestions": [
+      {
+        "text": "Who is the composer of the song \"These Boots Are Made for Walkin'\"?",
+        "score": 90.0
+      },
+      {
+        "text": "What year was \"These Boots Are Made for Walkin'\" released?",
+        "score": 40.0
+      },
+      {
+        "text": "Who performed the song \"These Boots Are Made for Walkin'\"?",
+        "score": 40.0
+      },
+      {
+        "text": "What other songs are associated with the writer of \"These Boots Are Made for Walkin'\"?",
+        "score": 60.0
+      },
+      {
+        "text": "What prominent events occurred in the music industry in 2007?",
+        "score": 10.0
+      },
+      {
+        "text": "Which notable musicians passed away in 2007?",
+        "score": 40.0
+      },
+      {
+        "text": "What was the impact of \"These Boots Are Made for Walkin'\" on popular culture?",
+        "score": 30.0
+      },
+      {
+        "text": "What genre of music does \"These Boots Are Made for Walkin'\" belong to?",
+        "score": 20.0
+      },
+      {
+        "text": "What awards or recognitions did \"These Boots Are Made for Walkin'\" receive?",
+        "score": 20.0
+      },
+      {
+        "text": "Who are some other famous artists who have covered \"These Boots Are Made for Walkin'\"?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "The 2011–12 VCU Rams men's basketball team, led by third year head coach Shaka Smart, represented Virginia Commonwealth University which was founded in what year?",
+    "subquestions": [
+      {
+        "text": "What is the full name of VCU Rams men's basketball team?",
+        "score": 20.0
+      },
+      {
+        "text": "Who was the head coach of the VCU Rams during the 2011–12 season?",
+        "score": 30.0
+      },
+      {
+        "text": "In what year did Shaka Smart become the head coach of the VCU Rams?",
+        "score": 20.0
+      },
+      {
+        "text": "What institution is represented by the VCU Rams men's basketball team?",
+        "score": 80.0
+      },
+      {
+        "text": "What does VCU stand for in the context of the basketball team?",
+        "score": 40.0
+      },
+      {
+        "text": "When was Virginia Commonwealth University officially established?",
+        "score": 100.0
+      },
+      {
+        "text": "What are some key milestones in the history of Virginia Commonwealth University?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the significance of the year Virginia Commonwealth University was founded?",
+        "score": 40.0
+      },
+      {
+        "text": "How does the founding year of Virginia Commonwealth University relate to its athletic programs?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the historical context of college basketball teams at Virginia Commonwealth University?",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "question": "Are both Dictyosperma, and Huernia described as a genus?",
+    "subquestions": [
+      {
+        "text": "What is the taxonomic classification of Dictyosperma?",
+        "score": 90.0
+      },
+      {
+        "text": "What is the taxonomic classification of Huernia?",
+        "score": 90.0
+      },
+      {
+        "text": "Are both Dictyosperma and Huernia classified under the same family?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the defining characteristics of the genus Dictyosperma?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the defining characteristics of the genus Huernia?",
+        "score": 40.0
+      },
+      {
+        "text": "How many species are included in the genus Dictyosperma?",
+        "score": 40.0
+      },
+      {
+        "text": "How many species are included in the genus Huernia?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any synonyms or alternative names for the genus Dictyosperma?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any synonyms or alternative names for the genus Huernia?",
+        "score": 40.0
+      },
+      {
+        "text": "What sources or databases provide taxonomic information on Dictyosperma and Huernia?",
+        "score": 70.0
+      }
+    ]
+  },
+  {
+    "question": "Kaiser Ventures corporation was founded by an American industrialist who became known as the father of modern American shipbuilding?",
+    "subquestions": [
+      {
+        "text": "Who is the American industrialist associated with Kaiser Ventures corporation?",
+        "score": 100.0
+      },
+      {
+        "text": "What contributions did this industrialist make to American shipbuilding?",
+        "score": 100.0
+      },
+      {
+        "text": "In what year was Kaiser Ventures corporation founded?",
+        "score": 90.0
+      },
+      {
+        "text": "What other companies or ventures did this industrialist create or influence?",
+        "score": 85.0
+      },
+      {
+        "text": "How did this industrialist earn the title of \"father of modern American shipbuilding\"?",
+        "score": 80.0
+      },
+      {
+        "text": "What specific innovations in shipbuilding are attributed to this industrialist?",
+        "score": 90.0
+      },
+      {
+        "text": "What was the historical context of shipbuilding in America at the time of the corporation's founding?",
+        "score": 70.0
+      },
+      {
+        "text": "Who were the key competitors of Kaiser Ventures corporation in the shipbuilding industry?",
+        "score": 40.0
+      },
+      {
+        "text": "What impact did Kaiser Ventures corporation have on the American shipbuilding industry?",
+        "score": 80.0
+      },
+      {
+        "text": "Are there any notable ships or projects completed by Kaiser Ventures corporation?",
+        "score": 70.0
+      }
+    ]
+  },
+  {
+    "question": "What is the name for the adventure in \"Tunnels and Trolls\", a game designed by Ken St. Andre?",
+    "subquestions": [
+      {
+        "text": "Who is Ken St. Andre?",
+        "score": 30.0
+      },
+      {
+        "text": "What is \"Tunnels and Trolls\"?",
+        "score": 70.0
+      },
+      {
+        "text": "What type of game is \"Tunnels and Trolls\"?",
+        "score": 30.0
+      },
+      {
+        "text": "How many adventures are associated with \"Tunnels and Trolls\"?",
+        "score": 30.0
+      },
+      {
+        "text": "What are some notable adventures in \"Tunnels and Trolls\"?",
+        "score": 70.0
+      },
+      {
+        "text": "What is the most popular adventure in \"Tunnels and Trolls\"?",
+        "score": 70.0
+      },
+      {
+        "text": "What year was \"Tunnels and Trolls\" first published?",
+        "score": 20.0
+      },
+      {
+        "text": "Are there any specific adventures credited directly to Ken St. Andre in \"Tunnels and Trolls\"?",
+        "score": 80.0
+      },
+      {
+        "text": "What themes or settings are common in \"Tunnels and Trolls\" adventures?",
+        "score": 30.0
+      },
+      {
+        "text": "Where can I find a list of adventures for \"Tunnels and Trolls\"?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "When was Poison's album \"Shut Up, Make Love\" released?",
+    "subquestions": [
+      {
+        "text": "What is the title of Poison's album \"Shut Up, Make Love\"?",
+        "score": 10.0
+      },
+      {
+        "text": "Who is the band Poison?",
+        "score": 20.0
+      },
+      {
+        "text": "When was Poison formed?",
+        "score": 10.0
+      },
+      {
+        "text": "What genre of music does Poison play?",
+        "score": 10.0
+      },
+      {
+        "text": "How many albums has Poison released?",
+        "score": 10.0
+      },
+      {
+        "text": "What are the names of some other albums released by Poison?",
+        "score": 20.0
+      },
+      {
+        "text": "Who were the main members of Poison at the time of the album's release?",
+        "score": 30.0
+      },
+      {
+        "text": "Was \"Shut Up, Make Love\" a single or part of an album?",
+        "score": 60.0
+      },
+      {
+        "text": "Did Poison release any singles from the album \"Shut Up, Make Love\"?",
+        "score": 20.0
+      },
+      {
+        "text": "What year did Poison release their first album?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?",
+    "subquestions": [
+      {
+        "text": "Who are the members of Buck-Tick?",
+        "score": 30.0
+      },
+      {
+        "text": "What genre of music does Buck-Tick primarily perform?",
+        "score": 30.0
+      },
+      {
+        "text": "When was Buck-Tick formed?",
+        "score": 30.0
+      },
+      {
+        "text": "What city or region in Japan is Buck-Tick associated with?",
+        "score": 100.0
+      },
+      {
+        "text": "Has Buck-Tick ever toured outside of Japan?",
+        "score": 30.0
+      },
+      {
+        "text": "What are some notable albums released by Buck-Tick?",
+        "score": 30.0
+      },
+      {
+        "text": "What influences can be seen in Buck-Tick's music style?",
+        "score": 40.0
+      },
+      {
+        "text": "How has Buck-Tick contributed to the Japanese music scene?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any awards or recognitions Buck-Tick has received?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the significance of Buck-Tick within the context of Japanese rock music?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "Which  French ace pilot and adventurer fly L'Oiseau Blanc",
+    "subquestions": [
+      {
+        "text": "Who were the notable French aviators in the early 20th century?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the significance of L'Oiseau Blanc in aviation history?",
+        "score": 60.0
+      },
+      {
+        "text": "When did the flight of L'Oiseau Blanc take place?",
+        "score": 70.0
+      },
+      {
+        "text": "What were the names of the pilots involved in the flight of L'Oiseau Blanc?",
+        "score": 100.0
+      },
+      {
+        "text": "What achievements are associated with the pilots of L'Oiseau Blanc?",
+        "score": 80.0
+      },
+      {
+        "text": "What challenges did the pilots face during the flight of L'Oiseau Blanc?",
+        "score": 80.0
+      },
+      {
+        "text": "How did the flight of L'Oiseau Blanc contribute to aviation advancements?",
+        "score": 40.0
+      },
+      {
+        "text": "What records were set by the pilots of L'Oiseau Blanc?",
+        "score": 60.0
+      },
+      {
+        "text": "What was the public's reaction to the flight of L'Oiseau Blanc at the time?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any biographies or accounts of the pilots who flew L'Oiseau Blanc?",
+        "score": 80.0
+      }
+    ]
+  },
+  {
+    "question": "Are Freakonomics and In the Realm of the Hackers both American documentaries?",
+    "subquestions": [
+      {
+        "text": "What is the country of origin for the documentary Freakonomics?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the country of origin for the documentary In the Realm of the Hackers?",
+        "score": 100.0
+      },
+      {
+        "text": "Who directed the documentary Freakonomics?",
+        "score": 40.0
+      },
+      {
+        "text": "Who directed the documentary In the Realm of the Hackers?",
+        "score": 40.0
+      },
+      {
+        "text": "When was the documentary Freakonomics released?",
+        "score": 40.0
+      },
+      {
+        "text": "When was the documentary In the Realm of the Hackers released?",
+        "score": 40.0
+      },
+      {
+        "text": "What themes or topics are covered in the documentary Freakonomics?",
+        "score": 30.0
+      },
+      {
+        "text": "What themes or topics are covered in the documentary In the Realm of the Hackers?",
+        "score": 30.0
+      },
+      {
+        "text": "What production companies were involved in the making of Freakonomics?",
+        "score": 40.0
+      },
+      {
+        "text": "What production companies were involved in the making of In the Realm of the Hackers?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "Which band, Letters to Cleo or Screaming Trees, had more members?",
+    "subquestions": [
+      {
+        "text": "How many members were in the band Letters to Cleo?",
+        "score": 100.0
+      },
+      {
+        "text": "How many members were in the band Screaming Trees?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the official formation year of Letters to Cleo?",
+        "score": 10.0
+      },
+      {
+        "text": "What is the official formation year of Screaming Trees?",
+        "score": 10.0
+      },
+      {
+        "text": "Did either band experience changes in membership over the years?",
+        "score": 60.0
+      },
+      {
+        "text": "What are the names of the members of Letters to Cleo?",
+        "score": 90.0
+      },
+      {
+        "text": "What are the names of the members of Screaming Trees?",
+        "score": 90.0
+      },
+      {
+        "text": "How many albums did each band release?",
+        "score": 10.0
+      },
+      {
+        "text": "Which band was more active during the 1990s?",
+        "score": 10.0
+      },
+      {
+        "text": "Are there any notable collaborations or side projects involving members from either band?",
+        "score": 10.0
+      }
+    ]
+  },
+  {
+    "question": "Alexander Kerensky was defeated and destroyed by the Bolsheviks in the course of a civil war that ended when ?",
+    "subquestions": [
+      {
+        "text": "What year did the Russian Civil War begin?",
+        "score": 60.0
+      },
+      {
+        "text": "What year did the Russian Civil War officially end?",
+        "score": 100.0
+      },
+      {
+        "text": "Who were the primary opposing sides in the Russian Civil War?",
+        "score": 80.0
+      },
+      {
+        "text": "What role did Alexander Kerensky play in the Russian government during the civil war?",
+        "score": 60.0
+      },
+      {
+        "text": "What events led to the Bolshevik rise to power during the civil war?",
+        "score": 70.0
+      },
+      {
+        "text": "What major battles or events contributed to the defeat of Kerensky's forces?",
+        "score": 90.0
+      },
+      {
+        "text": "How did the Bolsheviks consolidate power after defeating Kerensky?",
+        "score": 80.0
+      },
+      {
+        "text": "What was the significance of the October Revolution in relation to Kerensky's government?",
+        "score": 85.0
+      },
+      {
+        "text": "What were the key factors that led to the Bolsheviks' victory in the civil war?",
+        "score": 80.0
+      },
+      {
+        "text": "What was the immediate aftermath of the civil war for Russia following the Bolshevik victory?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "Seven Brief Lessons on Physics was written by an Italian physicist that has worked in France since what year?",
+    "subquestions": [
+      {
+        "text": "Who is the author of \"Seven Brief Lessons on Physics\"?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the nationality of the author of \"Seven Brief Lessons on Physics\"?",
+        "score": 60.0
+      },
+      {
+        "text": "In which country has the author of \"Seven Brief Lessons on Physics\" worked?",
+        "score": 80.0
+      },
+      {
+        "text": "What year did the author of \"Seven Brief Lessons on Physics\" start working in France?",
+        "score": 100.0
+      },
+      {
+        "text": "What are some notable contributions of the author to physics?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the significance of \"Seven Brief Lessons on Physics\" in the field of science?",
+        "score": 10.0
+      },
+      {
+        "text": "What is the publication date of \"Seven Brief Lessons on Physics\"?",
+        "score": 20.0
+      },
+      {
+        "text": "Has the author received any awards for their work in physics?",
+        "score": 10.0
+      },
+      {
+        "text": "What other works has the author published?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the author's educational background related to physics?",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "question": "The Livesey Hal War Memorial commemorates the fallen of which war, that had over 60 million casualties?",
+    "subquestions": [
+      {
+        "text": "What is the name of the war that had over 60 million casualties?",
+        "score": 95.0
+      },
+      {
+        "text": "In which countries did the war with over 60 million casualties primarily take place?",
+        "score": 60.0
+      },
+      {
+        "text": "What years did the war that resulted in over 60 million casualties span?",
+        "score": 80.0
+      },
+      {
+        "text": "What major events or battles are associated with the war mentioned in the original question?",
+        "score": 70.0
+      },
+      {
+        "text": "What was the main cause or trigger of the war that resulted in over 60 million casualties?",
+        "score": 60.0
+      },
+      {
+        "text": "How many military personnel and civilians were estimated to have died in the war with over 60 million casualties?",
+        "score": 90.0
+      },
+      {
+        "text": "What significant treaties or agreements ended the war commemorated by the Livesey Hal War Memorial?",
+        "score": 80.0
+      },
+      {
+        "text": "What impact did the war with over 60 million casualties have on global politics?",
+        "score": 30.0
+      },
+      {
+        "text": "Which nations were the primary belligerents in the war that resulted in over 60 million casualties?",
+        "score": 80.0
+      },
+      {
+        "text": "What memorials or monuments exist to commemorate the victims of the war with over 60 million casualties?",
+        "score": 80.0
+      }
+    ]
+  },
+  {
+    "question": "Are both Elko Regional Airport and Gerald R. Ford International Airport located in Michigan?",
+    "subquestions": [
+      {
+        "text": "Where is Elko Regional Airport located?",
+        "score": 100.0
+      },
+      {
+        "text": "Where is Gerald R. Ford International Airport located?",
+        "score": 100.0
+      },
+      {
+        "text": "What state is Elko Regional Airport in?",
+        "score": 100.0
+      },
+      {
+        "text": "What state is Gerald R. Ford International Airport in?",
+        "score": 100.0
+      },
+      {
+        "text": "What cities are served by Elko Regional Airport?",
+        "score": 40.0
+      },
+      {
+        "text": "What cities are served by Gerald R. Ford International Airport?",
+        "score": 60.0
+      },
+      {
+        "text": "Is Elko Regional Airport classified as a public or private airport?",
+        "score": 0.0
+      },
+      {
+        "text": "Is Gerald R. Ford International Airport classified as a public or private airport?",
+        "score": 20.0
+      },
+      {
+        "text": "What are the airport codes for Elko Regional Airport and Gerald R. Ford International Airport?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any airports with similar names located in Michigan?",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "question": "Ralph Hefferline was a psychology professor at a university that is located in what city?",
+    "subquestions": [
+      {
+        "text": "What university did Ralph Hefferline work at as a psychology professor?",
+        "score": 100.0
+      },
+      {
+        "text": "When did Ralph Hefferline serve as a psychology professor at the university?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the location of the university where Ralph Hefferline was a professor?",
+        "score": 100.0
+      },
+      {
+        "text": "What notable contributions did Ralph Hefferline make in the field of psychology?",
+        "score": 30.0
+      },
+      {
+        "text": "Who were some of Ralph Hefferline's colleagues at the university?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the full name of the university where Ralph Hefferline taught?",
+        "score": 90.0
+      },
+      {
+        "text": "In which city is the university that Ralph Hefferline was affiliated with?",
+        "score": 100.0
+      },
+      {
+        "text": "What programs or departments existed at the university during Ralph Hefferline's tenure?",
+        "score": 20.0
+      },
+      {
+        "text": "Are there any biographical details available about Ralph Hefferline that mention his workplace?",
+        "score": 80.0
+      },
+      {
+        "text": "What other positions did Ralph Hefferline hold throughout his academic career?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "Which dog's ancestors include Gordon and Irish Setters: the Manchester Terrier or the Scotch Collie?",
+    "subquestions": [
+      {
+        "text": "What are the distinctive characteristics of a Manchester Terrier?",
+        "score": 30.0
+      },
+      {
+        "text": "What are the distinctive characteristics of a Scotch Collie?",
+        "score": 30.0
+      },
+      {
+        "text": "What are the historical origins of the Gordon Setter?",
+        "score": 60.0
+      },
+      {
+        "text": "What are the historical origins of the Irish Setter?",
+        "score": 70.0
+      },
+      {
+        "text": "Which breeds are included in the ancestry of the Manchester Terrier?",
+        "score": 90.0
+      },
+      {
+        "text": "Which breeds are included in the ancestry of the Scotch Collie?",
+        "score": 80.0
+      },
+      {
+        "text": "How are Gordon Setters and Irish Setters related to each other?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the classification of the Manchester Terrier in terms of dog breeds?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the classification of the Scotch Collie in terms of dog breeds?",
+        "score": 30.0
+      },
+      {
+        "text": "Are there any documented crossbreeds between Gordon Setters and Irish Setters?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "Where is the company that Sachin Warrier worked for as a software engineer headquartered? ",
+    "subquestions": [
+      {
+        "text": "What is the name of the company that Sachin Warrier worked for as a software engineer?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the job title of Sachin Warrier at the company?",
+        "score": 60.0
+      },
+      {
+        "text": "What industry does the company that Sachin Warrier worked for belong to?",
+        "score": 30.0
+      },
+      {
+        "text": "When did Sachin Warrier start working for the company as a software engineer?",
+        "score": 20.0
+      },
+      {
+        "text": "Has Sachin Warrier worked for any other companies before this one?",
+        "score": 20.0
+      },
+      {
+        "text": "What are the key products or services offered by the company Sachin Warrier worked for?",
+        "score": 40.0
+      },
+      {
+        "text": "Who are the founders or key executives of the company that Sachin Warrier worked for?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the location or address of the company's headquarters?",
+        "score": 100.0
+      },
+      {
+        "text": "Is the company publicly traded, and if so, what is its stock symbol?",
+        "score": 10.0
+      },
+      {
+        "text": "What are some recent news articles or press releases about the company that Sachin Warrier worked for?",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "question": "A Japanese manga series based on a 16 year old high school student Ichitaka Seto, is written and illustrated by someone born in what year?",
+    "subquestions": [
+      {
+        "text": "What is the title of the Japanese manga series based on Ichitaka Seto?",
+        "score": 90.0
+      },
+      {
+        "text": "Who is the author and illustrator of the manga series featuring Ichitaka Seto?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the birth year of the author of the manga series?",
+        "score": 100.0
+      },
+      {
+        "text": "What other works has the author created?",
+        "score": 30.0
+      },
+      {
+        "text": "In which year was the manga series featuring Ichitaka Seto first published?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the significance of the character Ichitaka Seto in the manga?",
+        "score": 30.0
+      },
+      {
+        "text": "What genre does the manga series belong to?",
+        "score": 10.0
+      },
+      {
+        "text": "What influences did the author cite for creating the manga series?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the author's nationality?",
+        "score": 40.0
+      },
+      {
+        "text": "When was the author born?",
+        "score": 100.0
+      }
+    ]
+  },
+  {
+    "question": "The battle in which Giuseppe Arimondi lost his life secured what for Ethiopia?",
+    "subquestions": [
+      {
+        "text": "What was the name of the battle in which Giuseppe Arimondi lost his life?",
+        "score": 60.0
+      },
+      {
+        "text": "What were the main objectives of the battle in which Giuseppe Arimondi was involved?",
+        "score": 80.0
+      },
+      {
+        "text": "Who were the opposing forces in the battle in which Giuseppe Arimondi lost his life?",
+        "score": 60.0
+      },
+      {
+        "text": "What was the outcome of the battle in which Giuseppe Arimondi lost his life?",
+        "score": 90.0
+      },
+      {
+        "text": "How did the loss of Giuseppe Arimondi impact the morale of the Ethiopian forces?",
+        "score": 40.0
+      },
+      {
+        "text": "What were the strategic consequences of the battle for Ethiopia?",
+        "score": 100.0
+      },
+      {
+        "text": "How did the international community react to the outcome of the battle?",
+        "score": 60.0
+      },
+      {
+        "text": "What role did Giuseppe Arimondi play in the battle prior to his death?",
+        "score": 70.0
+      },
+      {
+        "text": "What territories or regions were affected by the battle in which Giuseppe Arimondi lost his life?",
+        "score": 80.0
+      },
+      {
+        "text": "What long-term effects did the battle have on Ethiopia's sovereignty or territorial integrity?",
+        "score": 90.0
+      }
+    ]
+  },
+  {
+    "question": "Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under which United States Vice President?",
+    "subquestions": [
+      {
+        "text": "Who was the Vice President of the United States during the time Alfred Balk served as secretary of the Committee on the Employment of Minority Groups in the News Media?",
+        "score": 100.0
+      },
+      {
+        "text": "What years did Alfred Balk serve in the position of secretary for the Committee on the Employment of Minority Groups in the News Media?",
+        "score": 40.0
+      },
+      {
+        "text": "Which U.S. Vice Presidents served during the time frame when Alfred Balk was involved with the Committee on the Employment of Minority Groups in the News Media?",
+        "score": 90.0
+      },
+      {
+        "text": "What is the significance of the Committee on the Employment of Minority Groups in the News Media in the context of U.S. politics?",
+        "score": 40.0
+      },
+      {
+        "text": "What were the primary objectives of the Committee on the Employment of Minority Groups in the News Media?",
+        "score": 20.0
+      },
+      {
+        "text": "Can you identify any notable initiatives or actions taken by the Committee on the Employment of Minority Groups in the News Media during Alfred Balk's tenure?",
+        "score": 60.0
+      },
+      {
+        "text": "What other committees or roles did Alfred Balk hold that may provide context for his work with the minority groups in the news media?",
+        "score": 40.0
+      },
+      {
+        "text": "How did the political climate during the Vice Presidency of the identified individual influence the work of the Committee on the Employment of Minority Groups in the News Media?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any published works or reports authored by Alfred Balk related to minority employment in the news media?",
+        "score": 40.0
+      },
+      {
+        "text": "What historical events or movements were occurring in the U.S. that may have affected the committee's focus on employment of minority groups in the news media during Balk's service?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "A medieval fortress in Dirleton, East Lothian, Scotland borders on the south side of what coastal area?",
+    "subquestions": [
+      {
+        "text": "What is the geographical location of Dirleton in East Lothian, Scotland?",
+        "score": 70.0
+      },
+      {
+        "text": "What coastal areas are located near Dirleton, East Lothian?",
+        "score": 90.0
+      },
+      {
+        "text": "What is the historical significance of the medieval fortress in Dirleton?",
+        "score": 30.0
+      },
+      {
+        "text": "How does the geography of East Lothian influence its coastal areas?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the names of the coastal areas that border East Lothian?",
+        "score": 80.0
+      },
+      {
+        "text": "What body of water is associated with the coastal areas of East Lothian?",
+        "score": 90.0
+      },
+      {
+        "text": "Are there any notable landmarks or features along the coast near Dirleton?",
+        "score": 60.0
+      },
+      {
+        "text": "What historical events are linked to the coastal areas of East Lothian?",
+        "score": 40.0
+      },
+      {
+        "text": "How has the coastline of East Lothian changed over time?",
+        "score": 30.0
+      },
+      {
+        "text": "What maps or resources can be consulted to identify the coastline of Dirleton?",
+        "score": 80.0
+      }
+    ]
+  },
+  {
+    "question": "Who is the writer of this song that was inspired by words on a tombstone and was the first track on the box set Back to Mono?",
+    "subquestions": [
+      {
+        "text": "What is the title of the song that was inspired by words on a tombstone?",
+        "score": 100.0
+      },
+      {
+        "text": "Who wrote the song that is the first track on the box set Back to Mono?",
+        "score": 95.0
+      },
+      {
+        "text": "What are the themes or elements of the song that relate to the words on a tombstone?",
+        "score": 40.0
+      },
+      {
+        "text": "Which artist or band is known for creating the box set Back to Mono?",
+        "score": 80.0
+      },
+      {
+        "text": "What year was the box set Back to Mono released?",
+        "score": 40.0
+      },
+      {
+        "text": "Can you identify any other songs by the same artist that were inspired by literary or historical sources?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the significance of the words on the tombstone that inspired the song?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any interviews or statements from the writer about the inspiration behind the song?",
+        "score": 80.0
+      },
+      {
+        "text": "What genre of music does the song belong to, and how does it relate to the artist's overall style?",
+        "score": 40.0
+      },
+      {
+        "text": "Who were the other contributors involved in the production of the box set Back to Mono?",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "question": "What type of forum did a former Soviet statesman initiate?",
+    "subquestions": [
+      {
+        "text": "Who is the former Soviet statesman referenced in the original question?",
+        "score": 100.0
+      },
+      {
+        "text": "What year did the former Soviet statesman initiate the forum?",
+        "score": 60.0
+      },
+      {
+        "text": "What was the primary purpose of the forum initiated by the former Soviet statesman?",
+        "score": 80.0
+      },
+      {
+        "text": "In what country was the forum initiated?",
+        "score": 70.0
+      },
+      {
+        "text": "What types of topics were discussed in the forum?",
+        "score": 70.0
+      },
+      {
+        "text": "Who were the key participants or attendees of the forum?",
+        "score": 70.0
+      },
+      {
+        "text": "Was the forum focused on political, economic, or social issues?",
+        "score": 80.0
+      },
+      {
+        "text": "What were the outcomes or resolutions resulting from the forum?",
+        "score": 70.0
+      },
+      {
+        "text": "How did the forum influence international relations in the post-Soviet era?",
+        "score": 70.0
+      },
+      {
+        "text": "Are there any notable publications or documents that resulted from the forum?",
+        "score": 70.0
+      }
+    ]
+  },
+  {
+    "question": "Are Ferocactus and Silene both types of plant?",
+    "subquestions": [
+      {
+        "text": "What family does Ferocactus belong to?",
+        "score": 60.0
+      },
+      {
+        "text": "What family does Silene belong to?",
+        "score": 60.0
+      },
+      {
+        "text": "Are Ferocactus and Silene classified under the same kingdom?",
+        "score": 70.0
+      },
+      {
+        "text": "What are the defining characteristics of the Ferocactus genus?",
+        "score": 60.0
+      },
+      {
+        "text": "What are the defining characteristics of the Silene genus?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any common names associated with Ferocactus?",
+        "score": 30.0
+      },
+      {
+        "text": "Are there any common names associated with Silene?",
+        "score": 30.0
+      },
+      {
+        "text": "What types of environments do Ferocactus typically grow in?",
+        "score": 30.0
+      },
+      {
+        "text": "What types of environments do Silene typically grow in?",
+        "score": 30.0
+      },
+      {
+        "text": "How do Ferocactus and Silene differ in their reproductive methods?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "Which British first-generation jet-powered medium bomber was used in the South West Pacific theatre of World War II?",
+    "subquestions": [
+      {
+        "text": "What are the characteristics of a first-generation jet-powered medium bomber?",
+        "score": 60.0
+      },
+      {
+        "text": "Which British aircraft were classified as medium bombers during World War II?",
+        "score": 80.0
+      },
+      {
+        "text": "What role did the South West Pacific theatre play in World War II operations?",
+        "score": 20.0
+      },
+      {
+        "text": "When did the first-generation jet-powered medium bombers become operational?",
+        "score": 60.0
+      },
+      {
+        "text": "What specific bombers were used by British forces in the South West Pacific theatre?",
+        "score": 80.0
+      },
+      {
+        "text": "How many British medium bombers were deployed in the South West Pacific theatre during World War II?",
+        "score": 60.0
+      },
+      {
+        "text": "What technological innovations were present in British first-generation jet-powered bombers?",
+        "score": 60.0
+      },
+      {
+        "text": "What are the names of notable British aircraft manufacturers during World War II?",
+        "score": 40.0
+      },
+      {
+        "text": "Which British bombers were specifically designed for use in the Pacific theatre?",
+        "score": 40.0
+      },
+      {
+        "text": "What were the primary missions and objectives of British medium bombers in the South West Pacific theatre?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "Which year and which conference was the 14th season for this conference as part of the NCAA Division that the Colorado Buffaloes played in with a record of 2-6 in conference play?",
+    "subquestions": [
+      {
+        "text": "What is the current conference that the Colorado Buffaloes are part of in the NCAA Division?",
+        "score": 20.0
+      },
+      {
+        "text": "In which year did the Colorado Buffaloes have a 2-6 record in conference play?",
+        "score": 80.0
+      },
+      {
+        "text": "How many seasons has the Colorado Buffaloes participated in their current conference?",
+        "score": 40.0
+      },
+      {
+        "text": "What was the name of the conference that the Colorado Buffaloes were part of during their 14th season?",
+        "score": 80.0
+      },
+      {
+        "text": "What year did the Colorado Buffaloes first join their current conference?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the total number of seasons that the conference has been in existence?",
+        "score": 40.0
+      },
+      {
+        "text": "Which teams were part of the conference during the Colorado Buffaloes' 14th season?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the historical context of the Colorado Buffaloes' performance in their conference?",
+        "score": 40.0
+      },
+      {
+        "text": "How is the conference schedule structured in terms of games played per season?",
+        "score": 30.0
+      },
+      {
+        "text": "What specific criteria determine the designation of a season as the \"14th\" for a conference?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "In 1991 Euromarché was bought by a chain that operated how any hypermarkets at the end of 2016?",
+    "subquestions": [
+      {
+        "text": "What is Euromarché and what type of stores does it operate?",
+        "score": 30.0
+      },
+      {
+        "text": "Who acquired Euromarché in 1991?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the name of the chain that bought Euromarché in 1991?",
+        "score": 80.0
+      },
+      {
+        "text": "How many hypermarkets did the chain that bought Euromarché operate at the time of the acquisition?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the current status of Euromarché as of 2016?",
+        "score": 60.0
+      },
+      {
+        "text": "Which chain was operating in the hypermarket sector at the end of 2016?",
+        "score": 40.0
+      },
+      {
+        "text": "How many hypermarkets were owned by the chain that acquired Euromarché by the end of 2016?",
+        "score": 100.0
+      },
+      {
+        "text": "What acquisitions or expansions did the chain that bought Euromarché undertake between 1991 and 2016?",
+        "score": 60.0
+      },
+      {
+        "text": "What are some major competitors of the chain that bought Euromarché in the hypermarket industry by 2016?",
+        "score": 40.0
+      },
+      {
+        "text": "What economic or industry trends affected the hypermarket sector between 1991 and 2016?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "What race track in the midwest hosts a 500 mile race eavery May?",
+    "subquestions": [
+      {
+        "text": "What is a list of race tracks located in the Midwest region of the United States?",
+        "score": 80.0
+      },
+      {
+        "text": "Which race tracks in the Midwest host races that are 500 miles long?",
+        "score": 90.0
+      },
+      {
+        "text": "What specific types of races are commonly held at Midwest race tracks?",
+        "score": 40.0
+      },
+      {
+        "text": "In which month is the 500-mile race traditionally held at Midwest race tracks?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the name of the race that occurs every May in the Midwest?",
+        "score": 90.0
+      },
+      {
+        "text": "Which Midwest race tracks are known for hosting events in May?",
+        "score": 80.0
+      },
+      {
+        "text": "Are there any major racing events that take place in the Midwest in May apart from the 500-mile race?",
+        "score": 30.0
+      },
+      {
+        "text": "What historical significance does the 500-mile race have in the Midwest racing community?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the characteristics or features of the race track that hosts the 500-mile race in May?",
+        "score": 60.0
+      },
+      {
+        "text": "Who organizes the 500-mile race held in the Midwest each May?",
+        "score": 80.0
+      }
+    ]
+  },
+  {
+    "question": "In what city did the \"Prince of tenors\" star in a film based on an opera by Giacomo Puccini?",
+    "subquestions": [
+      {
+        "text": "Who is known as the \"Prince of tenors\"?",
+        "score": 100.0
+      },
+      {
+        "text": "What films have been made based on operas by Giacomo Puccini?",
+        "score": 60.0
+      },
+      {
+        "text": "Which opera by Giacomo Puccini features a character that could relate to the \"Prince of tenors\"?",
+        "score": 60.0
+      },
+      {
+        "text": "In which city was the film based on the specific opera produced?",
+        "score": 90.0
+      },
+      {
+        "text": "What are the notable performances of the \"Prince of tenors\" in film?",
+        "score": 70.0
+      },
+      {
+        "text": "What is the release date of the film starring the \"Prince of tenors\" based on a Puccini opera?",
+        "score": 40.0
+      },
+      {
+        "text": "Who directed the film featuring the \"Prince of tenors\" based on Puccini's opera?",
+        "score": 40.0
+      },
+      {
+        "text": "What role did the \"Prince of tenors\" play in the film based on the opera?",
+        "score": 70.0
+      },
+      {
+        "text": "What are some key locations depicted in the film based on Puccini's opera?",
+        "score": 60.0
+      },
+      {
+        "text": "What historical context surrounds the filming of the Puccini opera adaptation in that city?",
+        "score": 70.0
+      }
+    ]
+  },
+  {
+    "question": "Ellie Goulding worked with what other writers on her third studio album, Delirium?",
+    "subquestions": [
+      {
+        "text": "What is the release date of Ellie Goulding's third studio album, Delirium?",
+        "score": 20.0
+      },
+      {
+        "text": "Who are the main producers associated with Ellie Goulding's Delirium?",
+        "score": 70.0
+      },
+      {
+        "text": "What are the titles of the songs included in the Delirium album?",
+        "score": 60.0
+      },
+      {
+        "text": "Which songwriters are credited on the tracklist of Delirium?",
+        "score": 100.0
+      },
+      {
+        "text": "What collaborations did Ellie Goulding have on her previous albums?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the genre of Ellie Goulding's Delirium album?",
+        "score": 20.0
+      },
+      {
+        "text": "Who are some notable songwriters in the music industry that have worked with Ellie Goulding?",
+        "score": 60.0
+      },
+      {
+        "text": "What writing styles are commonly associated with the writers who collaborated on Delirium?",
+        "score": 60.0
+      },
+      {
+        "text": "How many tracks are included in the Delirium album?",
+        "score": 20.0
+      },
+      {
+        "text": "What themes are explored in the songs of Delirium?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "Which Australian city founded in 1838 contains a boarding school opened by a Prime Minister of Australia and named after a school in London of the same name.",
+    "subquestions": [
+      {
+        "text": "What is the name of the Australian city founded in 1838?",
+        "score": 90.0
+      },
+      {
+        "text": "Who was the Prime Minister of Australia that opened a boarding school?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the name of the boarding school opened by the Prime Minister of Australia?",
+        "score": 80.0
+      },
+      {
+        "text": "Is there a boarding school in Australia named after a school in London?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the name of the school in London that shares its name with the boarding school in Australia?",
+        "score": 80.0
+      },
+      {
+        "text": "In which year was the boarding school opened by the Prime Minister of Australia?",
+        "score": 60.0
+      },
+      {
+        "text": "What are some historical facts about the Australian city founded in 1838?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the significance of the boarding school that was opened by the Prime Minister?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any notable events related to the founding of the Australian city in 1838?",
+        "score": 40.0
+      },
+      {
+        "text": "What other prominent figures have been associated with the boarding school in Australia?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "D1NZ is a series based on what oversteering technique?",
+    "subquestions": [
+      {
+        "text": "What is the definition of oversteering in driving dynamics?",
+        "score": 80.0
+      },
+      {
+        "text": "What are the different techniques used to control oversteering?",
+        "score": 80.0
+      },
+      {
+        "text": "How does D1NZ relate to competitive driving or motorsports?",
+        "score": 60.0
+      },
+      {
+        "text": "What specific oversteering techniques are commonly used in drift racing?",
+        "score": 90.0
+      },
+      {
+        "text": "Who are the key figures or organizations associated with D1NZ?",
+        "score": 20.0
+      },
+      {
+        "text": "What are the main objectives of the D1NZ series?",
+        "score": 40.0
+      },
+      {
+        "text": "How does the technique of throttle control affect oversteering in drift events?",
+        "score": 70.0
+      },
+      {
+        "text": "What types of vehicles are typically used in D1NZ competitions?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the rules or regulations regarding vehicle modifications in D1NZ?",
+        "score": 40.0
+      },
+      {
+        "text": "How do drivers in D1NZ train to master oversteering techniques?",
+        "score": 70.0
+      }
+    ]
+  },
+  {
+    "question": "who is younger Keith Bostic or Jerry Glanville ?",
+    "subquestions": [
+      {
+        "text": "What is the birth date of Keith Bostic?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the birth date of Jerry Glanville?",
+        "score": 100.0
+      },
+      {
+        "text": "How old is Keith Bostic as of today?",
+        "score": 90.0
+      },
+      {
+        "text": "How old is Jerry Glanville as of today?",
+        "score": 90.0
+      },
+      {
+        "text": "What year was Keith Bostic born?",
+        "score": 100.0
+      },
+      {
+        "text": "What year was Jerry Glanville born?",
+        "score": 90.0
+      },
+      {
+        "text": "What is the difference in age between Keith Bostic and Jerry Glanville?",
+        "score": 100.0
+      },
+      {
+        "text": "Has Keith Bostic ever publicly stated his age?",
+        "score": 40.0
+      },
+      {
+        "text": "Has Jerry Glanville ever publicly stated his age?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any reliable sources that compare the ages of Keith Bostic and Jerry Glanville?",
+        "score": 80.0
+      }
+    ]
+  },
+  {
+    "question": "According to the 2001 census, what was the population of the city in which Kirton End is located?",
+    "subquestions": [
+      {
+        "text": "What is the location of Kirton End?",
+        "score": 80.0
+      },
+      {
+        "text": "Which administrative division or local authority does Kirton End belong to?",
+        "score": 80.0
+      },
+      {
+        "text": "What was the name of the city that included Kirton End in the 2001 census?",
+        "score": 100.0
+      },
+      {
+        "text": "What was the total population recorded for that city in the 2001 census?",
+        "score": 100.0
+      },
+      {
+        "text": "Are there any demographic reports or summaries available for the city from the 2001 census?",
+        "score": 80.0
+      },
+      {
+        "text": "What were the population trends in the city during the years leading up to the 2001 census?",
+        "score": 60.0
+      },
+      {
+        "text": "How does the population of the city compare to the overall population of the surrounding region in 2001?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the primary sources for census data in the UK?",
+        "score": 30.0
+      },
+      {
+        "text": "Were there any notable events or changes in the city’s population around 2001?",
+        "score": 40.0
+      },
+      {
+        "text": "How can I access the 2001 census data for the city where Kirton End is located?",
+        "score": 80.0
+      }
+    ]
+  },
+  {
+    "question": "Are both Cypress and Ajuga genera?",
+    "subquestions": [
+      {
+        "text": "What is the definition of a genus in biological classification?",
+        "score": 60.0
+      },
+      {
+        "text": "What are the characteristics that define the Cypress genus?",
+        "score": 70.0
+      },
+      {
+        "text": "What are the characteristics that define the Ajuga genus?",
+        "score": 70.0
+      },
+      {
+        "text": "Are Cypress and Ajuga classified under the same family in the plant kingdom?",
+        "score": 40.0
+      },
+      {
+        "text": "What are some examples of species that belong to the Cypress genus?",
+        "score": 70.0
+      },
+      {
+        "text": "What are some examples of species that belong to the Ajuga genus?",
+        "score": 60.0
+      },
+      {
+        "text": "How is the classification of plant genera determined in botany?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the taxonomic hierarchy above the genus level?",
+        "score": 20.0
+      },
+      {
+        "text": "Are there any synonyms or alternate names for the Cypress genus?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any synonyms or alternate names for the Ajuga genus?",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "question": "What distinction is held by the former NBA player who was a member of the Charlotte Hornets during their 1992-93 season and was head coach for the WNBA team Charlotte Sting?",
+    "subquestions": [
+      {
+        "text": "Who was a member of the Charlotte Hornets during the 1992-93 NBA season?",
+        "score": 80.0
+      },
+      {
+        "text": "What position did the players from the Charlotte Hornets typically play during the 1992-93 season?",
+        "score": 10.0
+      },
+      {
+        "text": "Who was the head coach of the Charlotte Hornets during the 1992-93 season?",
+        "score": 30.0
+      },
+      {
+        "text": "What notable achievements did the Charlotte Hornets have in the 1992-93 season?",
+        "score": 40.0
+      },
+      {
+        "text": "Who was the head coach of the WNBA team Charlotte Sting?",
+        "score": 80.0
+      },
+      {
+        "text": "What years did the Charlotte Sting exist as a WNBA team?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the relationship between the Charlotte Hornets and the Charlotte Sting in terms of ownership or management?",
+        "score": 30.0
+      },
+      {
+        "text": "Which former NBA players transitioned to coaching in the WNBA during or after their careers?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the significance of coaching in the WNBA compared to the NBA?",
+        "score": 30.0
+      },
+      {
+        "text": "What accolades or distinctions have former players achieved after their playing careers in basketball?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the executive producer of the film that has a score composed by Jerry Goldsmith?",
+    "subquestions": [
+      {
+        "text": "What films has Jerry Goldsmith composed music for?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the release year of each film scored by Jerry Goldsmith?",
+        "score": 30.0
+      },
+      {
+        "text": "Which of the films composed by Jerry Goldsmith has an executive producer listed?",
+        "score": 80.0
+      },
+      {
+        "text": "Who are the executive producers of the film identified in the previous question?",
+        "score": 100.0
+      },
+      {
+        "text": "Are there multiple executive producers for the film in question?",
+        "score": 80.0
+      },
+      {
+        "text": "What are the names of the films that have received awards or nominations for their score by Jerry Goldsmith?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the genre of the film that has a score composed by Jerry Goldsmith?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the plot summary of the film that has a score composed by Jerry Goldsmith?",
+        "score": 30.0
+      },
+      {
+        "text": "Who directed the film that has a score composed by Jerry Goldsmith?",
+        "score": 40.0
+      },
+      {
+        "text": "What production company was involved in making the film that has a score composed by Jerry Goldsmith?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "Who was born earlier, Emma Bull or Virginia Woolf?",
+    "subquestions": [
+      {
+        "text": "What is the birth date of Emma Bull?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the birth date of Virginia Woolf?",
+        "score": 100.0
+      },
+      {
+        "text": "In what year was Emma Bull born?",
+        "score": 90.0
+      },
+      {
+        "text": "In what year was Virginia Woolf born?",
+        "score": 90.0
+      },
+      {
+        "text": "How many years apart are the birth dates of Emma Bull and Virginia Woolf?",
+        "score": 90.0
+      },
+      {
+        "text": "What is the significance of the birth dates of Emma Bull and Virginia Woolf in literary history?",
+        "score": 30.0
+      },
+      {
+        "text": "Were there any notable events in the years when Emma Bull and Virginia Woolf were born?",
+        "score": 10.0
+      },
+      {
+        "text": "What other authors were born around the same time as Emma Bull and Virginia Woolf?",
+        "score": 30.0
+      },
+      {
+        "text": "How has the literary work of Emma Bull been influenced by Virginia Woolf?",
+        "score": 20.0
+      },
+      {
+        "text": "What are the birthplaces of Emma Bull and Virginia Woolf?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "What was the Roud Folk Song Index of the nursery rhyme inspiring What Are Little Girls Made Of?",
+    "subquestions": [
+      {
+        "text": "What is the Roud Folk Song Index?",
+        "score": 60.0
+      },
+      {
+        "text": "Who is credited with the nursery rhyme that inspired \"What Are Little Girls Made Of\"?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the lyrics of the nursery rhyme that inspired \"What Are Little Girls Made Of\"?",
+        "score": 80.0
+      },
+      {
+        "text": "What are some common themes in nursery rhymes?",
+        "score": 10.0
+      },
+      {
+        "text": "How is the Roud Folk Song Index organized?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the significance of the Roud Folk Song Index in folk music?",
+        "score": 30.0
+      },
+      {
+        "text": "Are there any other nursery rhymes that share the same themes as \"What Are Little Girls Made Of\"?",
+        "score": 20.0
+      },
+      {
+        "text": "How can I find the Roud Folk Song Index entry for a specific nursery rhyme?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the historical context of the nursery rhyme that inspired \"What Are Little Girls Made Of\"?",
+        "score": 60.0
+      },
+      {
+        "text": "Who compiled the Roud Folk Song Index and when was it established?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "Scott Parkin has been a vocal critic of Exxonmobil and another corporation that has operations in how many countries ?",
+    "subquestions": [
+      {
+        "text": "What is the total number of countries where Exxonmobil operates?",
+        "score": 100.0
+      },
+      {
+        "text": "Who is Scott Parkin and what are his main criticisms of Exxonmobil?",
+        "score": 60.0
+      },
+      {
+        "text": "What are the names of the other corporation that Scott Parkin criticizes?",
+        "score": 80.0
+      },
+      {
+        "text": "How many countries does the other corporation operate in?",
+        "score": 100.0
+      },
+      {
+        "text": "What specific operations does Exxonmobil have in the countries where it operates?",
+        "score": 60.0
+      },
+      {
+        "text": "What specific operations does the other corporation have in the countries where it operates?",
+        "score": 70.0
+      },
+      {
+        "text": "Are there any countries where both Exxonmobil and the other corporation operate?",
+        "score": 60.0
+      },
+      {
+        "text": "What are the criteria used to determine the countries where a corporation operates?",
+        "score": 30.0
+      },
+      {
+        "text": "How can the number of countries where Exxonmobil operates be verified?",
+        "score": 90.0
+      },
+      {
+        "text": "What impact do Scott Parkin's criticisms have on public perception of Exxonmobil and the other corporation?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "What WB supernatrual drama series was Jawbreaker star Rose Mcgowan best known for being in?",
+    "subquestions": [
+      {
+        "text": "What is the full name of the actress known for her role in the film Jawbreaker?",
+        "score": 40.0
+      },
+      {
+        "text": "What supernatural drama series aired on WB during the time Rose McGowan was active in television?",
+        "score": 70.0
+      },
+      {
+        "text": "What character did Rose McGowan portray in the supernatural drama series?",
+        "score": 90.0
+      },
+      {
+        "text": "In what year did Rose McGowan start appearing in the WB supernatural drama series?",
+        "score": 70.0
+      },
+      {
+        "text": "What are some notable plot points or themes of the WB supernatural drama series featuring Rose McGowan?",
+        "score": 80.0
+      },
+      {
+        "text": "How many seasons did the WB supernatural drama series starring Rose McGowan run?",
+        "score": 80.0
+      },
+      {
+        "text": "What other main cast members were involved in the WB supernatural drama series with Rose McGowan?",
+        "score": 70.0
+      },
+      {
+        "text": "Did Rose McGowan receive any awards or nominations for her role in the WB supernatural drama series?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the premise of the WB supernatural drama series that Rose McGowan is best known for?",
+        "score": 80.0
+      },
+      {
+        "text": "How did the WB supernatural drama series featuring Rose McGowan impact her career?",
+        "score": 80.0
+      }
+    ]
+  },
+  {
+    "question": "Vince Phillips held a junior welterweight title by an organization recognized by what larger Hall of Fame?",
+    "subquestions": [
+      {
+        "text": "What is the name of the organization that recognized Vince Phillips as a junior welterweight champion?",
+        "score": 90.0
+      },
+      {
+        "text": "What are the different organizations that sanction junior welterweight titles?",
+        "score": 80.0
+      },
+      {
+        "text": "Which of these organizations is associated with a Hall of Fame?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the criteria for an organization to be recognized by a Hall of Fame?",
+        "score": 40.0
+      },
+      {
+        "text": "Who are some notable boxers inducted into the Hall of Fame associated with junior welterweight titles?",
+        "score": 40.0
+      },
+      {
+        "text": "What year did Vince Phillips win the junior welterweight title?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the significance of being recognized by a larger Hall of Fame for a boxing organization?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there multiple Hall of Fames for boxing, and if so, what are their names?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the relationship between boxing titles and Hall of Fame recognition?",
+        "score": 40.0
+      },
+      {
+        "text": "How does one typically get inducted into a boxing Hall of Fame?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "What is the name of the singer who's song was released as the lead single from the album \"Confessions\", and that had popular song stuck behind for eight consecutive weeks?",
+    "subquestions": [
+      {
+        "text": "What is the title of the album that features the lead single in question?",
+        "score": 80.0
+      },
+      {
+        "text": "Who is the artist associated with the album \"Confessions\"?",
+        "score": 90.0
+      },
+      {
+        "text": "What is the title of the lead single released from the album \"Confessions\"?",
+        "score": 80.0
+      },
+      {
+        "text": "How long did the lead single from \"Confessions\" stay at number one on the charts?",
+        "score": 80.0
+      },
+      {
+        "text": "What were the names of the popular songs that were stuck behind the lead single for eight consecutive weeks?",
+        "score": 70.0
+      },
+      {
+        "text": "In which year was the album \"Confessions\" released?",
+        "score": 60.0
+      },
+      {
+        "text": "What music charts are relevant to the lead single's performance?",
+        "score": 60.0
+      },
+      {
+        "text": "What genre of music does the lead single from \"Confessions\" belong to?",
+        "score": 40.0
+      },
+      {
+        "text": "Who wrote or produced the lead single from the album \"Confessions\"?",
+        "score": 60.0
+      },
+      {
+        "text": "What impact did the lead single have on the artist's career following its release?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "who is the younger brother of The episode guest stars of The Hard Easy ",
+    "subquestions": [
+      {
+        "text": "Who are the guest stars of The Hard Easy?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the relationship between the guest stars of The Hard Easy?",
+        "score": 60.0
+      },
+      {
+        "text": "Who among the guest stars has siblings?",
+        "score": 30.0
+      },
+      {
+        "text": "What are the names of the siblings of the guest stars?",
+        "score": 60.0
+      },
+      {
+        "text": "Which of the guest stars is male?",
+        "score": 40.0
+      },
+      {
+        "text": "Who is the youngest male guest star of The Hard Easy?",
+        "score": 80.0
+      },
+      {
+        "text": "Does the youngest male guest star have a younger brother?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the age difference between the youngest male guest star and his siblings?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any other male guest stars in The Hard Easy who have brothers?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the name of the younger brother of the youngest male guest star?",
+        "score": 80.0
+      }
+    ]
+  },
+  {
+    "question": "The 2017–18 Wigan Athletic F.C. season will be a year in which the team competes in the league cup known as what for sponsorship reasons?",
+    "subquestions": [
+      {
+        "text": "What is the official name of the league cup that Wigan Athletic F.C. participates in during the 2017–18 season?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the sponsorship name associated with the league cup in which Wigan Athletic F.C. is competing?",
+        "score": 100.0
+      },
+      {
+        "text": "Who were the sponsors of the league cup during the 2017–18 season?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the historical name of the league cup prior to any sponsorship changes?",
+        "score": 60.0
+      },
+      {
+        "text": "In what year did the league cup first adopt its current sponsored name?",
+        "score": 40.0
+      },
+      {
+        "text": "Which teams participated in the league cup alongside Wigan Athletic F.C. during the 2017–18 season?",
+        "score": 40.0
+      },
+      {
+        "text": "How does the league cup's name change with different sponsorships?",
+        "score": 60.0
+      },
+      {
+        "text": "What are the eligibility criteria for teams competing in the league cup?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the format of the league cup competition for the 2017–18 season?",
+        "score": 40.0
+      },
+      {
+        "text": "How does Wigan Athletic F.C.'s performance in the league cup compare to previous seasons?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "Which of Tara Strong major voice role in animated series is an American animated television series based on the DC Comics fictional superhero team, the \"Teen Titans\"?",
+    "subquestions": [
+      {
+        "text": "What are the names of the main characters in the animated series \"Teen Titans\"?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the premise or storyline of the \"Teen Titans\" animated series?",
+        "score": 70.0
+      },
+      {
+        "text": "Who are the main voice actors in the \"Teen Titans\" animated series?",
+        "score": 80.0
+      },
+      {
+        "text": "What character does Tara Strong voice in the \"Teen Titans\" animated series?",
+        "score": 100.0
+      },
+      {
+        "text": "What other animated series has Tara Strong worked on?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the key themes explored in the \"Teen Titans\" animated series?",
+        "score": 40.0
+      },
+      {
+        "text": "When was the \"Teen Titans\" animated series first released?",
+        "score": 70.0
+      },
+      {
+        "text": "What network aired the \"Teen Titans\" animated series?",
+        "score": 60.0
+      },
+      {
+        "text": "How has the \"Teen Titans\" animated series influenced other animated shows?",
+        "score": 40.0
+      },
+      {
+        "text": "What awards or nominations has the \"Teen Titans\" animated series received?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "What is the inhabitant of the city where  122nd SS-Standarte was formed in2014",
+    "subquestions": [
+      {
+        "text": "What is the location where the 122nd SS-Standarte was formed in 2014?",
+        "score": 100.0
+      },
+      {
+        "text": "In which country was the 122nd SS-Standarte established?",
+        "score": 70.0
+      },
+      {
+        "text": "What city is associated with the formation of the 122nd SS-Standarte?",
+        "score": 100.0
+      },
+      {
+        "text": "Who were the key figures involved in forming the 122nd SS-Standarte in 2014?",
+        "score": 30.0
+      },
+      {
+        "text": "What historical context surrounded the formation of the 122nd SS-Standarte?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the significance of the 122nd SS-Standarte in relation to its city of formation?",
+        "score": 70.0
+      },
+      {
+        "text": "What are the demographics of the city where the 122nd SS-Standarte was formed?",
+        "score": 70.0
+      },
+      {
+        "text": "What is the current population of the city associated with the 122nd SS-Standarte?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the main culture or characteristic of the inhabitants of the city where the 122nd SS-Standarte was formed?",
+        "score": 70.0
+      },
+      {
+        "text": "Are there any notable events or activities related to the 122nd SS-Standarte that involve the city's inhabitants?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "What color clothing do people of the Netherlands wear during Oranjegekte or to celebrate the national holiday Koningsdag? ",
+    "subquestions": [
+      {
+        "text": "What is Oranjegekte and how is it celebrated in the Netherlands?",
+        "score": 70.0
+      },
+      {
+        "text": "What is Koningsdag and what significance does it have in Dutch culture?",
+        "score": 60.0
+      },
+      {
+        "text": "What color is traditionally associated with the Netherlands?",
+        "score": 90.0
+      },
+      {
+        "text": "How do Dutch people typically dress for national holidays?",
+        "score": 80.0
+      },
+      {
+        "text": "Are there specific symbols or patterns that are popular on Koningsdag?",
+        "score": 60.0
+      },
+      {
+        "text": "What types of clothing items are commonly worn during Oranjegekte?",
+        "score": 70.0
+      },
+      {
+        "text": "How do clothing choices differ between men and women during these celebrations?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any regional variations in clothing styles for Koningsdag across the Netherlands?",
+        "score": 60.0
+      },
+      {
+        "text": "What accessories do people wear to complement their outfits during Oranjegekte?",
+        "score": 80.0
+      },
+      {
+        "text": "How has the clothing worn during Koningsdag evolved over the years?",
+        "score": 70.0
+      }
+    ]
+  },
+  {
+    "question": "What was the name of the 1996 loose adaptation of William Shakespeare's \"Romeo & Juliet\" written by James Gunn?",
+    "subquestions": [
+      {
+        "text": "Who is James Gunn?",
+        "score": 30.0
+      },
+      {
+        "text": "What are some notable works by James Gunn?",
+        "score": 30.0
+      },
+      {
+        "text": "In what year was the loose adaptation of \"Romeo & Juliet\" released?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the plot of the loose adaptation of \"Romeo & Juliet\" written by James Gunn?",
+        "score": 80.0
+      },
+      {
+        "text": "What are some characteristics of loose adaptations in film?",
+        "score": 30.0
+      },
+      {
+        "text": "How does a loose adaptation differ from a direct adaptation?",
+        "score": 20.0
+      },
+      {
+        "text": "What was the critical reception of the 1996 film adaptation?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any notable actors featured in this adaptation?",
+        "score": 40.0
+      },
+      {
+        "text": "What themes are explored in the 1996 adaptation of \"Romeo & Juliet\"?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the relationship between \"Romeo & Juliet\" and its adaptations in general?",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "question": "Robert Suettinger was the national intelligence officer under which former Governor of Arkansas?",
+    "subquestions": [
+      {
+        "text": "Who is Robert Suettinger?",
+        "score": 70.0
+      },
+      {
+        "text": "What role did Robert Suettinger serve as a national intelligence officer?",
+        "score": 80.0
+      },
+      {
+        "text": "Who were the governors of Arkansas during the time Robert Suettinger was active in intelligence?",
+        "score": 90.0
+      },
+      {
+        "text": "What were the years of service for each governor of Arkansas?",
+        "score": 20.0
+      },
+      {
+        "text": "Did Robert Suettinger hold his position as national intelligence officer under a specific Arkansas governor?",
+        "score": 90.0
+      },
+      {
+        "text": "What are the notable accomplishments of Robert Suettinger in his role as national intelligence officer?",
+        "score": 60.0
+      },
+      {
+        "text": "What political party did the former governor of Arkansas belong to during Robert Suettinger's tenure?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the timeline of Robert Suettinger's career in relation to Arkansas governors?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any public records or documents that identify Robert Suettinger’s associates or supervisors?",
+        "score": 40.0
+      },
+      {
+        "text": "What other positions did Robert Suettinger hold that might relate to the Arkansas governor's office?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "What American professional Hawaiian surfer born 18 October 1992 won the Rip Curl Pro Portugal?",
+    "subquestions": [
+      {
+        "text": "What is the name of the Rip Curl Pro Portugal event?",
+        "score": 20.0
+      },
+      {
+        "text": "In what year did the Rip Curl Pro Portugal take place?",
+        "score": 60.0
+      },
+      {
+        "text": "Who are the notable American professional surfers?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the birthdates of American professional surfers born in 1992?",
+        "score": 70.0
+      },
+      {
+        "text": "Who won the Rip Curl Pro Portugal in 2021?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the significance of the date 18 October 1992 in surfing?",
+        "score": 10.0
+      },
+      {
+        "text": "What are the achievements of American surfers in international competitions?",
+        "score": 40.0
+      },
+      {
+        "text": "Where is the Rip Curl Pro Portugal held?",
+        "score": 30.0
+      },
+      {
+        "text": "What are the criteria for winning the Rip Curl Pro Portugal?",
+        "score": 20.0
+      },
+      {
+        "text": "Who is the most successful American surfer in the Rip Curl Pro Portugal history?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "What is the middle name of the actress who plays Bobbi Bacha in Suburban Madness?",
+    "subquestions": [
+      {
+        "text": "What is the name of the actress who plays Bobbi Bacha in Suburban Madness?",
+        "score": 90.0
+      },
+      {
+        "text": "In which year was Suburban Madness released?",
+        "score": 20.0
+      },
+      {
+        "text": "What other movies or TV shows has the actress who plays Bobbi Bacha appeared in?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the full name of the actress who plays Bobbi Bacha in Suburban Madness?",
+        "score": 100.0
+      },
+      {
+        "text": "Has the actress who plays Bobbi Bacha in Suburban Madness won any awards?",
+        "score": 10.0
+      },
+      {
+        "text": "What is the birth name of the actress who plays Bobbi Bacha?",
+        "score": 90.0
+      },
+      {
+        "text": "Is the actress who plays Bobbi Bacha known by any stage names?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the significance of middle names in the context of the actress's career?",
+        "score": 10.0
+      },
+      {
+        "text": "What is the actress's date of birth?",
+        "score": 20.0
+      },
+      {
+        "text": "What are some notable roles or characters portrayed by the actress who plays Bobbi Bacha?",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "question": "Alvaro Mexia had a diplomatic mission with which tribe of indigenous people?",
+    "subquestions": [
+      {
+        "text": "Who was Alvaro Mexia, and what role did he play in diplomatic missions?",
+        "score": 80.0
+      },
+      {
+        "text": "What were the historical contexts of Alvaro Mexia's diplomatic missions?",
+        "score": 60.0
+      },
+      {
+        "text": "Which indigenous tribes were known to have interacted with European diplomats during Alvaro Mexia's time?",
+        "score": 70.0
+      },
+      {
+        "text": "What specific records or documents mention Alvaro Mexia's diplomatic missions?",
+        "score": 80.0
+      },
+      {
+        "text": "What was the nature of the diplomatic relations between Europeans and indigenous tribes in the region during the early 17th century?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any accounts or writings that detail Alvaro Mexia's interactions with indigenous tribes?",
+        "score": 85.0
+      },
+      {
+        "text": "What were the goals of Alvaro Mexia's diplomatic mission?",
+        "score": 60.0
+      },
+      {
+        "text": "What geographical areas did Alvaro Mexia's mission cover?",
+        "score": 60.0
+      },
+      {
+        "text": "What were the outcomes of Alvaro Mexia's diplomatic engagements with indigenous tribes?",
+        "score": 80.0
+      },
+      {
+        "text": "How did the indigenous tribes respond to European diplomatic missions during Alvaro Mexia's time?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "What nationality were social anthropologists Alfred Gell and Edmund Leach?",
+    "subquestions": [
+      {
+        "text": "What countries are associated with Alfred Gell's background?",
+        "score": 90.0
+      },
+      {
+        "text": "What countries are associated with Edmund Leach's background?",
+        "score": 80.0
+      },
+      {
+        "text": "In which year was Alfred Gell born?",
+        "score": 20.0
+      },
+      {
+        "text": "In which year was Edmund Leach born?",
+        "score": 20.0
+      },
+      {
+        "text": "What university did Alfred Gell attend for his education?",
+        "score": 20.0
+      },
+      {
+        "text": "What university did Edmund Leach attend for his education?",
+        "score": 30.0
+      },
+      {
+        "text": "What was Alfred Gell's primary area of study in anthropology?",
+        "score": 30.0
+      },
+      {
+        "text": "What was Edmund Leach's primary area of study in anthropology?",
+        "score": 40.0
+      },
+      {
+        "text": "Did Alfred Gell have any notable publications that indicate his cultural influences?",
+        "score": 40.0
+      },
+      {
+        "text": "Did Edmund Leach have any notable publications that indicate his cultural influences?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "In which year was the King who made the 1925 Birthday Honours born?",
+    "subquestions": [
+      {
+        "text": "Who was the King who made the 1925 Birthday Honours?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the significance of the 1925 Birthday Honours?",
+        "score": 20.0
+      },
+      {
+        "text": "In what year did the 1925 Birthday Honours take place?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the birth date of the King identified in the first question?",
+        "score": 100.0
+      },
+      {
+        "text": "What was the full name of the King who made the 1925 Birthday Honours?",
+        "score": 100.0
+      },
+      {
+        "text": "What other notable events occurred during the reign of the King?",
+        "score": 20.0
+      },
+      {
+        "text": "How does the title of the King relate to the year of the Birthday Honours?",
+        "score": 60.0
+      },
+      {
+        "text": "What historical context can provide insights into the King's birth year?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any records or biographies that detail the King's life and birth?",
+        "score": 70.0
+      },
+      {
+        "text": "What was the King's role in the establishment of the Birthday Honours?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "What is the county seat of the county where East Lempster, New Hampshire is located?",
+    "subquestions": [
+      {
+        "text": "What county is East Lempster, New Hampshire located in?",
+        "score": 100.0
+      },
+      {
+        "text": "What are the boundaries of Sullivan County, New Hampshire?",
+        "score": 40.0
+      },
+      {
+        "text": "What towns or cities are included in Sullivan County, New Hampshire?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the definition of a county seat?",
+        "score": 10.0
+      },
+      {
+        "text": "Which town is designated as the county seat of Sullivan County, New Hampshire?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the population of the county seat of Sullivan County, New Hampshire?",
+        "score": 40.0
+      },
+      {
+        "text": "What historical significance does the county seat of Sullivan County hold?",
+        "score": 30.0
+      },
+      {
+        "text": "Are there any major government offices located in the county seat of Sullivan County?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the geographic location of the county seat of Sullivan County in relation to East Lempster?",
+        "score": 70.0
+      },
+      {
+        "text": "What transportation options are available to reach the county seat from East Lempster, New Hampshire?",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "question": "The Album Against the Wind was the 11th Album of a Rock singer Robert C Seger born may 6 1945. What was the Rock singers stage name ?",
+    "subquestions": [
+      {
+        "text": "What is the full name of the rock singer Robert C. Seger?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the significance of the album \"Against the Wind\" in Robert C. Seger's career?",
+        "score": 30.0
+      },
+      {
+        "text": "When was the album \"Against the Wind\" released?",
+        "score": 30.0
+      },
+      {
+        "text": "What are some other notable albums released by Robert C. Seger?",
+        "score": 30.0
+      },
+      {
+        "text": "What genres of music does Robert C. Seger primarily perform?",
+        "score": 20.0
+      },
+      {
+        "text": "Has Robert C. Seger ever used a stage name in his career?",
+        "score": 100.0
+      },
+      {
+        "text": "What are some examples of stage names used by rock musicians?",
+        "score": 10.0
+      },
+      {
+        "text": "What is the general process for a musician to adopt a stage name?",
+        "score": 10.0
+      },
+      {
+        "text": "Is there any information available about Robert C. Seger's early life that might relate to his stage name?",
+        "score": 40.0
+      },
+      {
+        "text": "How does the stage name of Robert C. Seger compare to his real name in terms of popularity?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "Rostker v. Goldberg held that the practice of what way of filling armed forces vacancies was consitutional?",
+    "subquestions": [
+      {
+        "text": "What was the main legal issue addressed in Rostker v. Goldberg?",
+        "score": 95.0
+      },
+      {
+        "text": "How did the Supreme Court justify its decision in Rostker v. Goldberg?",
+        "score": 100.0
+      },
+      {
+        "text": "What specific practice regarding armed forces vacancies was challenged in Rostker v. Goldberg?",
+        "score": 100.0
+      },
+      {
+        "text": "What were the implications of the ruling in Rostker v. Goldberg on gender equality in the military?",
+        "score": 60.0
+      },
+      {
+        "text": "What constitutional amendments were considered in the case of Rostker v. Goldberg?",
+        "score": 80.0
+      },
+      {
+        "text": "Who were the parties involved in the Rostker v. Goldberg case?",
+        "score": 60.0
+      },
+      {
+        "text": "What evidence did the government present to support its position in Rostker v. Goldberg?",
+        "score": 80.0
+      },
+      {
+        "text": "What was the outcome of the Rostker v. Goldberg decision?",
+        "score": 90.0
+      },
+      {
+        "text": "How did previous court rulings influence the decision in Rostker v. Goldberg?",
+        "score": 80.0
+      },
+      {
+        "text": "What role did Congress play in the context of Rostker v. Goldberg?",
+        "score": 80.0
+      }
+    ]
+  },
+  {
+    "question": "Handi-Snacks are a snack food product line sold by what American multinational confectionery, food, and beverage company that is based in Illinois?",
+    "subquestions": [
+      {
+        "text": "What are Handi-Snacks?",
+        "score": 60.0
+      },
+      {
+        "text": "Which company is known for producing snack food products?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the headquarters location of major American multinational confectionery companies?",
+        "score": 40.0
+      },
+      {
+        "text": "What are some other product lines offered by American multinational food companies?",
+        "score": 20.0
+      },
+      {
+        "text": "Who are the major competitors in the snack food industry in the United States?",
+        "score": 30.0
+      },
+      {
+        "text": "What year was Handi-Snacks first introduced to the market?",
+        "score": 20.0
+      },
+      {
+        "text": "What types of products are typically included in a confectionery and snack food line?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the significance of Illinois in the food and beverage industry?",
+        "score": 20.0
+      },
+      {
+        "text": "How can I identify the parent company of a specific snack brand?",
+        "score": 60.0
+      },
+      {
+        "text": "What are the largest multinational food and beverage companies based in the United States?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "What was the name of a woman from the book titled \"Their Lives: The Women Targeted by the Clinton Machine \" and was also a former white house intern?",
+    "subquestions": [
+      {
+        "text": "What is the title of the book \"Their Lives: The Women Targeted by the Clinton Machine\"?",
+        "score": 10.0
+      },
+      {
+        "text": "Who are the main subjects or women discussed in the book \"Their Lives: The Women Targeted by the Clinton Machine\"?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the significance of white house interns in the context of the book \"Their Lives: The Women Targeted by the Clinton Machine\"?",
+        "score": 40.0
+      },
+      {
+        "text": "Can you identify any women mentioned in the book who were former white house interns?",
+        "score": 100.0
+      },
+      {
+        "text": "What are the names of the authors of the book \"Their Lives: The Women Targeted by the Clinton Machine\"?",
+        "score": 20.0
+      },
+      {
+        "text": "What year was the book \"Their Lives: The Women Targeted by the Clinton Machine\" published?",
+        "score": 20.0
+      },
+      {
+        "text": "What are some themes or key events discussed in the book that involve the women targeted by the Clinton Machine?",
+        "score": 40.0
+      },
+      {
+        "text": "How does the book portray the experiences of women who were white house interns during the Clinton administration?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any interviews or testimonials from the women in the book that highlight their roles as white house interns?",
+        "score": 60.0
+      },
+      {
+        "text": "What other books or articles discuss the experiences of women associated with the Clinton administration?",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "question": "When was the American lawyer, lobbyist and political consultant who was a senior member of the presidential campaign of Donald Trump born?",
+    "subquestions": [
+      {
+        "text": "Who is the American lawyer, lobbyist, and political consultant that was a senior member of Donald Trump's presidential campaign?",
+        "score": 100.0
+      },
+      {
+        "text": "What are the notable positions held by this individual in their career?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the full name of this American lawyer and political consultant?",
+        "score": 90.0
+      },
+      {
+        "text": "In which year did Donald Trump's presidential campaign take place?",
+        "score": 60.0
+      },
+      {
+        "text": "What is the date of birth of this individual?",
+        "score": 100.0
+      },
+      {
+        "text": "What other significant roles did this individual hold during their career?",
+        "score": 40.0
+      },
+      {
+        "text": "What political party is this individual affiliated with?",
+        "score": 30.0
+      },
+      {
+        "text": "Has this individual ever held a position in government or public office?",
+        "score": 20.0
+      },
+      {
+        "text": "What educational background does this American lawyer have?",
+        "score": 20.0
+      },
+      {
+        "text": "Are there any biographical sources that document the life of this individual?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "In what year was the novel that Lourenço Mutarelli based \"Nina\" on based first published?",
+    "subquestions": [
+      {
+        "text": "What is the title of the novel that Lourenço Mutarelli based \"Nina\" on?",
+        "score": 90.0
+      },
+      {
+        "text": "Who is the author of the novel that Lourenço Mutarelli based \"Nina\" on?",
+        "score": 70.0
+      },
+      {
+        "text": "When was the novel that Lourenço Mutarelli based \"Nina\" on first published?",
+        "score": 100.0
+      },
+      {
+        "text": "What are some notable works by the author of the novel that Lourenço Mutarelli based \"Nina\" on?",
+        "score": 40.0
+      },
+      {
+        "text": "What genre does the novel that Lourenço Mutarelli based \"Nina\" on belong to?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the main theme of the novel that Lourenço Mutarelli based \"Nina\" on?",
+        "score": 20.0
+      },
+      {
+        "text": "Are there any significant adaptations of the novel that Lourenço Mutarelli based \"Nina\" on?",
+        "score": 20.0
+      },
+      {
+        "text": "What impact did the novel that Lourenço Mutarelli based \"Nina\" on have on its literary genre?",
+        "score": 30.0
+      },
+      {
+        "text": "In what year was Lourenço Mutarelli's \"Nina\" published?",
+        "score": 40.0
+      },
+      {
+        "text": "How does the publication year of \"Nina\" relate to the original publication of the novel it is based on?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "Where are Teide National Park and Garajonay National Park located?",
+    "subquestions": [
+      {
+        "text": "What country is Teide National Park located in?",
+        "score": 80.0
+      },
+      {
+        "text": "What country is Garajonay National Park located in?",
+        "score": 90.0
+      },
+      {
+        "text": "In which region or island can Teide National Park be found?",
+        "score": 100.0
+      },
+      {
+        "text": "In which region or island can Garajonay National Park be found?",
+        "score": 90.0
+      },
+      {
+        "text": "What is the significance of Teide National Park in relation to its geographical features?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the significance of Garajonay National Park in relation to its geographical features?",
+        "score": 40.0
+      },
+      {
+        "text": "Are Teide National Park and Garajonay National Park part of the same national system of parks?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the coordinates of Teide National Park?",
+        "score": 80.0
+      },
+      {
+        "text": "What are the coordinates of Garajonay National Park?",
+        "score": 80.0
+      },
+      {
+        "text": "What are the main attractions or features of Teide National Park?",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "question": "How many copies of Roald Dahl's variation on a popular anecdote sold?",
+    "subquestions": [
+      {
+        "text": "What is the title of Roald Dahl's variation on the popular anecdote?",
+        "score": 90.0
+      },
+      {
+        "text": "When was Roald Dahl's variation on the popular anecdote published?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the primary audience demographic for Roald Dahl's works?",
+        "score": 20.0
+      },
+      {
+        "text": "How many copies of Roald Dahl's other works have sold to date?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the average sales figure for Roald Dahl's books in the first year after publication?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any specific marketing campaigns associated with the release of Roald Dahl's variation?",
+        "score": 30.0
+      },
+      {
+        "text": "What platforms or retailers sell Roald Dahl's variation on the popular anecdote?",
+        "score": 40.0
+      },
+      {
+        "text": "How do the sales figures of Roald Dahl's variation compare to similar works by other authors?",
+        "score": 60.0
+      },
+      {
+        "text": "What are the critical reviews or ratings for Roald Dahl's variation on the popular anecdote?",
+        "score": 20.0
+      },
+      {
+        "text": "Is there any data available on the sales trends for Roald Dahl's books over the years?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "What occupation do Chris Menges and Aram Avakian share?",
+    "subquestions": [
+      {
+        "text": "What is the occupation of Chris Menges?",
+        "score": 90.0
+      },
+      {
+        "text": "What is the occupation of Aram Avakian?",
+        "score": 90.0
+      },
+      {
+        "text": "Are Chris Menges and Aram Avakian known for working in the same industry?",
+        "score": 80.0
+      },
+      {
+        "text": "What specific films or projects have Chris Menges worked on?",
+        "score": 60.0
+      },
+      {
+        "text": "What specific films or projects have Aram Avakian worked on?",
+        "score": 60.0
+      },
+      {
+        "text": "What common roles or responsibilities are associated with the occupation shared by Chris Menges and Aram Avakian?",
+        "score": 80.0
+      },
+      {
+        "text": "Have Chris Menges and Aram Avakian collaborated on any projects together?",
+        "score": 30.0
+      },
+      {
+        "text": "What notable achievements or awards have Chris Menges received in his occupation?",
+        "score": 60.0
+      },
+      {
+        "text": "What notable achievements or awards have Aram Avakian received in his occupation?",
+        "score": 40.0
+      },
+      {
+        "text": "How do the contributions of Chris Menges and Aram Avakian compare within their shared occupation?",
+        "score": 90.0
+      }
+    ]
+  },
+  {
+    "question": "Andrew Jaspan was the co-founder of what not-for-profit media outlet?",
+    "subquestions": [
+      {
+        "text": "What is the definition of a not-for-profit media outlet?",
+        "score": 20.0
+      },
+      {
+        "text": "Who are some well-known media outlets that operate as not-for-profit organizations?",
+        "score": 40.0
+      },
+      {
+        "text": "What role did Andrew Jaspan play in the media industry?",
+        "score": 60.0
+      },
+      {
+        "text": "When was Andrew Jaspan active in founding media outlets?",
+        "score": 40.0
+      },
+      {
+        "text": "What are some notable achievements of Andrew Jaspan in the media field?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any specific media outlets that Andrew Jaspan is commonly associated with?",
+        "score": 90.0
+      },
+      {
+        "text": "What are the key characteristics of the media outlet co-founded by Andrew Jaspan?",
+        "score": 70.0
+      },
+      {
+        "text": "How does a not-for-profit media outlet differ from for-profit media outlets?",
+        "score": 20.0
+      },
+      {
+        "text": "What impact did Andrew Jaspan have on the media landscape in his region?",
+        "score": 40.0
+      },
+      {
+        "text": "Can you list any awards or recognitions received by Andrew Jaspan for his work in media?",
+        "score": 30.0
+      }
+    ]
+  },
+  {
+    "question": "Which American film director hosted the 18th Independent Spirit Awards in 2002?",
+    "subquestions": [
+      {
+        "text": "What year did the 18th Independent Spirit Awards take place?",
+        "score": 80.0
+      },
+      {
+        "text": "Who were the nominees for the 18th Independent Spirit Awards in 2002?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the role of a host at the Independent Spirit Awards?",
+        "score": 20.0
+      },
+      {
+        "text": "Which American film directors were prominent during the early 2000s?",
+        "score": 40.0
+      },
+      {
+        "text": "Who hosted the Independent Spirit Awards in previous years leading up to 2002?",
+        "score": 30.0
+      },
+      {
+        "text": "What other events or films were associated with the 18th Independent Spirit Awards?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any specific American film directors known for hosting award shows?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the significance of the Independent Spirit Awards in the film industry?",
+        "score": 20.0
+      },
+      {
+        "text": "Where can I find a list of past hosts for the Independent Spirit Awards?",
+        "score": 80.0
+      },
+      {
+        "text": "What criteria are used to select the host for the Independent Spirit Awards?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "Where does the hotel and casino located in which Bill Cosby's third album was recorded?",
+    "subquestions": [
+      {
+        "text": "What is the title of Bill Cosby's third album?",
+        "score": 60.0
+      },
+      {
+        "text": "When was Bill Cosby's third album recorded?",
+        "score": 30.0
+      },
+      {
+        "text": "Who produced Bill Cosby's third album?",
+        "score": 10.0
+      },
+      {
+        "text": "What city was Bill Cosby living in when he recorded his third album?",
+        "score": 30.0
+      },
+      {
+        "text": "What hotel and casino did Bill Cosby frequently visit during the time of his third album's recording?",
+        "score": 70.0
+      },
+      {
+        "text": "Are there any specific hotels and casinos mentioned in relation to Bill Cosby's career?",
+        "score": 70.0
+      },
+      {
+        "text": "What were the popular hotels and casinos in the city where Bill Cosby's third album was recorded?",
+        "score": 40.0
+      },
+      {
+        "text": "Did Bill Cosby perform at a hotel and casino while promoting his third album?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the history of the hotel and casino connected to Bill Cosby?",
+        "score": 60.0
+      },
+      {
+        "text": "What other albums did Bill Cosby record in the same location as his third album?",
+        "score": 40.0
+      }
+    ]
+  },
+  {
+    "question": "Do the drinks Gibson and Zurracapote both contain gin?",
+    "subquestions": [
+      {
+        "text": "What are the main ingredients of the Gibson drink?",
+        "score": 90.0
+      },
+      {
+        "text": "What are the main ingredients of the Zurracapote drink?",
+        "score": 90.0
+      },
+      {
+        "text": "Does the Gibson drink typically include gin as an ingredient?",
+        "score": 100.0
+      },
+      {
+        "text": "Does the Zurracapote drink typically include gin as an ingredient?",
+        "score": 100.0
+      },
+      {
+        "text": "Are there variations of the Gibson drink that do not contain gin?",
+        "score": 70.0
+      },
+      {
+        "text": "Are there variations of the Zurracapote drink that do not contain gin?",
+        "score": 80.0
+      },
+      {
+        "text": "What is the historical origin of the Gibson drink?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the historical origin of the Zurracapote drink?",
+        "score": 10.0
+      },
+      {
+        "text": "Are there any cocktails similar to the Gibson that also contain gin?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any cocktails similar to the Zurracapote that also contain gin?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "In what month is the annual documentary film festival, that is presented by the fortnightly published British journal of literary essays, held? ",
+    "subquestions": [
+      {
+        "text": "What is the name of the documentary film festival presented by the British journal of literary essays?",
+        "score": 90.0
+      },
+      {
+        "text": "Which British journal is known for publishing literary essays fortnightly?",
+        "score": 90.0
+      },
+      {
+        "text": "What is the typical schedule or timing for the annual documentary film festival?",
+        "score": 90.0
+      },
+      {
+        "text": "In which month did the documentary film festival take place last year?",
+        "score": 90.0
+      },
+      {
+        "text": "What themes or topics are commonly featured in the documentary film festival?",
+        "score": 20.0
+      },
+      {
+        "text": "How long has the documentary film festival been held annually?",
+        "score": 30.0
+      },
+      {
+        "text": "Are there any notable films or filmmakers associated with the documentary film festival?",
+        "score": 30.0
+      },
+      {
+        "text": "What are the main events or activities that occur during the documentary film festival?",
+        "score": 40.0
+      },
+      {
+        "text": "Where is the documentary film festival typically held?",
+        "score": 30.0
+      },
+      {
+        "text": "What announcements are made regarding the documentary film festival in the British journal of literary essays?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "Tysons Galleria is located in what county?",
+    "subquestions": [
+      {
+        "text": "What city is Tysons Galleria located in?",
+        "score": 70.0
+      },
+      {
+        "text": "What state is Tysons Galleria found in?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the major counties in Virginia?",
+        "score": 30.0
+      },
+      {
+        "text": "Which county contains the city where Tysons Galleria is located?",
+        "score": 90.0
+      },
+      {
+        "text": "What are the geographic boundaries of Tysons Galleria?",
+        "score": 60.0
+      },
+      {
+        "text": "Is Tysons Galleria near any notable landmarks or regions?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the full address of Tysons Galleria?",
+        "score": 90.0
+      },
+      {
+        "text": "What is the population of the county where Tysons Galleria is located?",
+        "score": 30.0
+      },
+      {
+        "text": "What are the primary attractions or features of the county where Tysons Galleria is situated?",
+        "score": 20.0
+      },
+      {
+        "text": "Are there any maps available that show the location of Tysons Galleria in relation to its county?",
+        "score": 60.0
+      }
+    ]
+  },
+  {
+    "question": "Bordan Tkachuk was the CEO of a company that provides what sort of products?",
+    "subquestions": [
+      {
+        "text": "What is the name of the company that Bordan Tkachuk was the CEO of?",
+        "score": 90.0
+      },
+      {
+        "text": "What industry does the company that Bordan Tkachuk led operate in?",
+        "score": 90.0
+      },
+      {
+        "text": "What types of products are commonly associated with that industry?",
+        "score": 70.0
+      },
+      {
+        "text": "What specific products does the company produce?",
+        "score": 100.0
+      },
+      {
+        "text": "Who are the main competitors of the company Bordan Tkachuk was CEO of?",
+        "score": 60.0
+      },
+      {
+        "text": "What are the market trends in the industry related to the company's products?",
+        "score": 40.0
+      },
+      {
+        "text": "What is the target market for the products offered by the company?",
+        "score": 60.0
+      },
+      {
+        "text": "Are there any notable achievements or awards related to the company's products?",
+        "score": 40.0
+      },
+      {
+        "text": "What innovations has the company introduced in its product line?",
+        "score": 60.0
+      },
+      {
+        "text": "How have the products of the company evolved over time under Bordan Tkachuk's leadership?",
+        "score": 70.0
+      }
+    ]
+  },
+  {
+    "question": "Which filmmaker was known for animation, Lev Yilmaz or Pamela B. Green?",
+    "subquestions": [
+      {
+        "text": "What types of films are associated with Lev Yilmaz?",
+        "score": 90.0
+      },
+      {
+        "text": "What types of films are associated with Pamela B. Green?",
+        "score": 80.0
+      },
+      {
+        "text": "Has Lev Yilmaz worked on any animated films?",
+        "score": 100.0
+      },
+      {
+        "text": "Has Pamela B. Green worked on any animated films?",
+        "score": 80.0
+      },
+      {
+        "text": "What notable animation projects has Lev Yilmaz been involved in?",
+        "score": 90.0
+      },
+      {
+        "text": "What notable animation projects has Pamela B. Green been involved in?",
+        "score": 80.0
+      },
+      {
+        "text": "What awards or recognitions have Lev Yilmaz received for his work in animation?",
+        "score": 60.0
+      },
+      {
+        "text": "What awards or recognitions have Pamela B. Green received for her work in animation?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any interviews or articles that discuss Lev Yilmaz's contribution to animation?",
+        "score": 70.0
+      },
+      {
+        "text": "Are there any interviews or articles that discuss Pamela B. Green's contribution to animation?",
+        "score": 70.0
+      }
+    ]
+  },
+  {
+    "question": "In which city is the ambassador of the Rabat-Salé-Kénitra administrative region to China based?",
+    "subquestions": [
+      {
+        "text": "What is the capital city of the Rabat-Salé-Kénitra administrative region?",
+        "score": 80.0
+      },
+      {
+        "text": "Who is currently the ambassador of Morocco to China?",
+        "score": 60.0
+      },
+      {
+        "text": "What are the responsibilities of the ambassador of the Rabat-Salé-Kénitra administrative region in China?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the official residence of the Moroccan ambassador in China?",
+        "score": 80.0
+      },
+      {
+        "text": "In which city are Moroccan embassies typically located in China?",
+        "score": 80.0
+      },
+      {
+        "text": "What are the major cities in the Rabat-Salé-Kénitra administrative region?",
+        "score": 30.0
+      },
+      {
+        "text": "How does the appointment of an ambassador to China affect diplomatic relations with the Rabat-Salé-Kénitra region?",
+        "score": 20.0
+      },
+      {
+        "text": "What is the process for appointing an ambassador from a specific administrative region in Morocco?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the geographical significance of the Rabat-Salé-Kénitra region in relation to China?",
+        "score": 10.0
+      },
+      {
+        "text": "Are there any notable events or initiatives involving the Rabat-Salé-Kénitra region and China?",
+        "score": 20.0
+      }
+    ]
+  },
+  {
+    "question": "Are Yingkou and Fuding the same level of city?",
+    "subquestions": [
+      {
+        "text": "What is the administrative classification of Yingkou?",
+        "score": 100.0
+      },
+      {
+        "text": "What is the administrative classification of Fuding?",
+        "score": 100.0
+      },
+      {
+        "text": "How is the level of a city defined in the context of Chinese urban classifications?",
+        "score": 100.0
+      },
+      {
+        "text": "Are there specific criteria used to determine the level of a city in China?",
+        "score": 90.0
+      },
+      {
+        "text": "What is the population size of Yingkou?",
+        "score": 30.0
+      },
+      {
+        "text": "What is the population size of Fuding?",
+        "score": 30.0
+      },
+      {
+        "text": "What are the economic indicators for Yingkou?",
+        "score": 40.0
+      },
+      {
+        "text": "What are the economic indicators for Fuding?",
+        "score": 30.0
+      },
+      {
+        "text": "How do the urban infrastructure and services in Yingkou compare to those in Fuding?",
+        "score": 40.0
+      },
+      {
+        "text": "Are there any historical changes in the city classifications of Yingkou and Fuding?",
+        "score": 70.0
+      }
+    ]
+  }
+]

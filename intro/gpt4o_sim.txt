@@ -1,0 +1,10 @@
+Position 1: 0.7719
+Position 2: 0.7557
+Position 3: 0.7391
+Position 4: 0.7381
+Position 5: 0.7259
+Position 6: 0.6971
+Position 7: 0.7251
+Position 8: 0.7097
+Position 9: 0.7087
+Position 10: 0.7209
